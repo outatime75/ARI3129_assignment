@@ -1,0 +1,1801 @@
+<?xml version="1.0" ?>
+<annotations>
+    <version>1.1</version>
+    <meta>
+        <task>
+            <year>2024</year>
+            <version>12</version>
+            <description>Exported from roboflow.com</description>
+            <contributor/>
+            <url>https://public.roboflow.com/object-detection/undefined</url>
+            <date_created>2024-01-09T21:35:12+00:00</date_created>
+            <labels>
+                <label>
+                    <name>toppings</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+                <label>
+                    <name>black_olives</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+                <label>
+                    <name>mushrooms</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+                <label>
+                    <name>pepperoni</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+                <label>
+                    <name>peppers</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+                <label>
+                    <name>pizza</name>
+                    <color>#FFFFFF</color>
+                    <attributes>{}</attributes>
+                </label>
+            </labels>
+        </task>
+    </meta>
+    <image id="0" name="04953_jpg.rf.14ed6912de528e8f0c2fa9a9d8a020a1.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="7" ytl="54" xbr="629.222" ybr="615.913" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="369" ytl="272" xbr="395.5" ybr="303" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="406" ytl="236" xbr="431" ybr="263" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="84" ytl="236" xbr="123.5" ybr="265" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="114" ytl="302" xbr="140" ybr="326.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="87" ytl="376" xbr="113" ybr="400.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="201" ytl="303" xbr="224.5" ybr="330" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="239" ytl="337" xbr="266.5" ybr="362" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="263" ytl="507" xbr="320" ybr="552" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="439" ytl="123" xbr="474" ybr="148.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="410" ytl="150" xbr="434.5" ybr="177" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="348" ytl="86" xbr="383" ybr="117.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="286" ytl="95" xbr="320" ybr="124" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="495" ytl="235" xbr="529" ybr="265.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="434" ytl="367" xbr="479" ybr="397.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="79" ytl="289" xbr="174.5" ybr="349.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="515" ytl="339" xbr="562.5" ybr="389" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="449" ytl="433" xbr="496.5" ybr="467.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="121" ytl="193" xbr="200.5" ybr="240" z_order="0"/>
+    </image>
+    <image id="1" name="00130_jpg.rf.2b44e78cd185b28ac6d9c85412bf8390.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="81" xbr="630.519" ybr="593.475" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="416" ytl="387" xbr="516.5" ybr="473.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="192" ytl="412" xbr="289.5" ybr="487" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="51" ytl="307" xbr="140" ybr="378" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="79" ytl="172" xbr="149.5" ybr="236" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="237" ytl="108" xbr="309" ybr="147.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="385" ytl="110" xbr="449.5" ybr="156" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="494" ytl="224" xbr="576.5" ybr="298" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="427" ytl="172" xbr="506.5" ybr="235.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="248" ytl="264" xbr="304" ybr="354.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="128" ytl="243" xbr="198.5" ybr="298.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="127" ytl="358" xbr="186.5" ybr="425" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="283" ytl="394" xbr="341.5" ybr="492" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="319" ytl="492" xbr="364" ybr="542" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="530" ytl="295" xbr="595" ybr="381.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="392" ytl="252" xbr="497.5" ybr="333.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="278" ytl="159" xbr="344.5" ybr="227.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="206" ytl="191" xbr="252.5" ybr="240.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="337" ytl="240" xbr="422.5" ybr="367" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="364" ytl="181" xbr="416.5" ybr="228.5" z_order="0"/>
+    </image>
+    <image id="2" name="02276_jpg.rf.217b642f36ab14f5569139435d4d5fa6.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="74" ytl="0" xbr="559.3330000000001" ybr="640" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="441" ytl="146" xbr="482" ybr="186.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="194" ytl="256" xbr="229" ybr="304" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="401" ytl="338" xbr="439.5" ybr="374.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="383" ytl="194" xbr="417.5" ybr="243" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="234" ytl="299" xbr="277.5" ybr="339.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="187" ytl="493" xbr="225.5" ybr="524" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="448" ytl="417" xbr="490.5" ybr="468" z_order="0"/>
+    </image>
+    <image id="3" name="00656_jpg.rf.192f0b33b4e3d7216733b7ea903c690b.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="70" xbr="640" ybr="640.311" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="321" ytl="460" xbr="390.5" ybr="512" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="54" ytl="435" xbr="120" ybr="485.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="200" ytl="346" xbr="260" ybr="385.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="457" ytl="271" xbr="526.5" ybr="318.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="392" ytl="168" xbr="453.5" ybr="213.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="160" ytl="179" xbr="215.5" ybr="219.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="222" ytl="124" xbr="277" ybr="178.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="29" ytl="238" xbr="109" ybr="291.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="40" ytl="348" xbr="92.5" ybr="380.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="266" ytl="495" xbr="343" ybr="573" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="393" ytl="525" xbr="443.5" ybr="573" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="433" ytl="487" xbr="496.5" ybr="549" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="562" ytl="426" xbr="605.5" ybr="468" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="438" ytl="411" xbr="497.5" ybr="454.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="390" ytl="409" xbr="443.5" ybr="451.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="315" ytl="411" xbr="383" ybr="455" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="255" ytl="368" xbr="350.5" ybr="429" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="154" ytl="243" xbr="192" ybr="279" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="416" ytl="261" xbr="463.5" ybr="306" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="504" ytl="293" xbr="559.5" ybr="345.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="329" ytl="575" xbr="410.5" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="270" ytl="151" xbr="356" ybr="214.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="91" ytl="245" xbr="180" ybr="302.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="448" ytl="343" xbr="532.5" ybr="420" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="520" ytl="262" xbr="587.5" ybr="323" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="60" ytl="378" xbr="140" ybr="441" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="168" ytl="458" xbr="246" ybr="515.5" z_order="0"/>
+    </image>
+    <image id="4" name="00914_jpg.rf.2d14e1a840458667af710717d12637e4.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="7" ytl="1" xbr="639.889" ybr="633" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="465" ytl="456" xbr="507" ybr="501" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="216" ytl="105" xbr="248" ybr="155.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="257" ytl="114" xbr="295" ybr="157.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="344" ytl="46" xbr="390" ybr="134" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="400" ytl="76" xbr="488.5" ybr="123" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="608" ytl="237" xbr="639" ybr="287" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="497" ytl="203" xbr="518.5" ybr="236" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="363" ytl="238" xbr="398" ybr="283.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="260" ytl="208" xbr="298.5" ybr="252.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="178" ytl="254" xbr="212.5" ybr="294" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="147" ytl="234" xbr="179.5" ybr="268.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="104" ytl="114" xbr="150" ybr="193.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="158" ytl="320" xbr="193" ybr="354" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="196" ytl="404" xbr="239.5" ybr="455" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="257" ytl="406" xbr="315" ybr="445" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="86" ytl="393" xbr="122" ybr="431" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="151" ytl="514" xbr="189" ybr="562.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="237" ytl="529" xbr="276" ybr="574" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="268" ytl="470" xbr="314" ybr="515" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="357" ytl="467" xbr="418.5" ybr="526.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="460" ytl="527" xbr="501" ybr="570.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="462" ytl="348" xbr="496.5" ybr="390.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="537" ytl="312" xbr="577.5" ybr="360.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="347" ytl="154" xbr="366" ybr="188.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="338" ytl="339" xbr="423.5" ybr="430" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="392" ytl="527" xbr="495" ybr="614" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="104" ytl="412" xbr="188" ybr="504.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="182" ytl="303" xbr="249" ybr="387.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="104" ytl="307" xbr="197.5" ybr="379" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="82" ytl="188" xbr="144" ybr="262" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="127" ytl="79" xbr="175.5" ybr="136" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="391" ytl="104" xbr="464.5" ybr="186" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="576" ytl="167" xbr="621" ybr="241" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="260" ytl="136" xbr="339.5" ybr="201" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="339" ytl="409" xbr="388" ybr="475.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="467" ytl="387" xbr="493.5" ybr="435.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="168" ytl="204" xbr="323.5" ybr="279.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="177" ytl="433" xbr="237" ybr="507" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="324" ytl="300" xbr="395.5" ybr="355.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="307" ytl="382" xbr="350.5" ybr="485" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="271" ytl="502" xbr="314.5" ybr="545.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="333" ytl="509" xbr="416" ybr="541" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="459" ytl="504" xbr="507.5" ybr="526" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="507" ytl="436" xbr="565" ybr="505" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="474" ytl="197" xbr="568" ybr="273.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="524" ytl="66" xbr="610.5" ybr="152" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="176" ytl="20" xbr="244.5" ybr="102.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="318" ytl="114" xbr="371.5" ybr="157" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="345" ytl="198" xbr="402.5" ybr="262" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="15" ytl="173" xbr="105.5" ybr="304.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="228" ytl="302" xbr="286" ybr="393.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="410" ytl="419" xbr="454.5" ybr="482" z_order="0"/>
+    </image>
+    <image id="5" name="08883_jpg.rf.2f387fb71771975af8554c8d655242ed.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="105" ytl="308" xbr="639.519" ybr="640.444" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="476" ytl="341" xbr="603.5" ybr="429" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="373" ytl="308" xbr="479.5" ybr="378" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="217" ytl="342" xbr="349.5" ybr="430" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="366" ytl="470" xbr="461" ybr="603" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="408" ytl="428" xbr="484.5" ybr="493" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="485" ytl="454" xbr="632" ybr="574" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="172" ytl="435" xbr="335.5" ybr="492.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="369" ytl="371" xbr="421.5" ybr="431" z_order="0"/>
+    </image>
+    <image id="6" name="09122_jpg.rf.179b451b9dea0caaf9cd6552f98178d3.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="357" ytl="454" xbr="435.5" ybr="553.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="79" ytl="49" xbr="187" ybr="164" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="70" ytl="193" xbr="175.5" ybr="308" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="90" ytl="325" xbr="196" ybr="435.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="79" ytl="534" xbr="193.5" ybr="626" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="224" ytl="382" xbr="321.5" ybr="484" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="226" ytl="265" xbr="309" ybr="360" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="197" ytl="125" xbr="298.5" ybr="227.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="359" ytl="65" xbr="442" ybr="160.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="220" ytl="1" xbr="312" ybr="84.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="369" ytl="0" xbr="461" ybr="38" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="466" ytl="25" xbr="549.5" ybr="119" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="548" ytl="85" xbr="615" ybr="170" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="468" ytl="130" xbr="539" ybr="215.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="549" ytl="175" xbr="610" ybr="272" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="481" ytl="240" xbr="551" ybr="327.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="364" ytl="205" xbr="447.5" ybr="305" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="353" ytl="306" xbr="428.5" ybr="399.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="476" ytl="370" xbr="546" ybr="457" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="572" ytl="299" xbr="638" ybr="387" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="559" ytl="429" xbr="625.5" ybr="518.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="478" ytl="485" xbr="540.5" ybr="577" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="220" ytl="555" xbr="329.5" ybr="640" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="279" ytl="514" xbr="335.5" ybr="579" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="178" ytl="189" xbr="235.5" ybr="247.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="47" ytl="315" xbr="89" ybr="356.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="26" ytl="6" xbr="98" ybr="56" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="157" ytl="12" xbr="197" ybr="79" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="216" ytl="23" xbr="280.5" ybr="83" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="303" ytl="18" xbr="357" ybr="95" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="296" ytl="167" xbr="346.5" ybr="220.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="312" ytl="256" xbr="347.5" ybr="308" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="543" ytl="23" xbr="605" ybr="77" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="444" ytl="359" xbr="496" ybr="402" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="418" ytl="399" xbr="474.5" ybr="447" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="342" ytl="394" xbr="398.5" ybr="436" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="514" ytl="490" xbr="586.5" ybr="543.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="580" ytl="551" xbr="640" ybr="605.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="349" ytl="559" xbr="417" ybr="634.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="203" ytl="518" xbr="236.5" ybr="566" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="119" ytl="435" xbr="175" ybr="495" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="184" ytl="585" xbr="227" ybr="628.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="225" ytl="410" xbr="248" ybr="445" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="400" ytl="154" xbr="464" ybr="216" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="458" ytl="142" xbr="493.5" ybr="181.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="549" ytl="377" xbr="602.5" ybr="423.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="321" ytl="211" xbr="362.5" ybr="244.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="461" ytl="459" xbr="516.5" ybr="518.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="113" ytl="256" xbr="154" ybr="287.5" z_order="0"/>
+    </image>
+    <image id="7" name="07927_jpg.rf.2a7fe3e5331eb65d31894ccf192df193.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="639.407" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="374" ytl="69" xbr="466" ybr="155.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="439" ytl="141" xbr="528" ybr="219.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="525" ytl="188" xbr="595.5" ybr="276" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="530" ytl="317" xbr="621" ybr="399.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="526" ytl="401" xbr="603.5" ybr="482" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="444" ytl="482" xbr="529.5" ybr="569.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="379" ytl="395" xbr="455.5" ybr="480.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="413" ytl="305" xbr="496.5" ybr="384.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="359" ytl="249" xbr="443.5" ybr="331.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="331" ytl="180" xbr="404.5" ybr="250" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="300" ytl="0" xbr="386.5" ybr="79" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="209" ytl="10" xbr="306.5" ybr="106" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="104" ytl="50" xbr="197.5" ybr="144" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="2" ytl="86" xbr="91" ybr="169" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="117" ytl="204" xbr="202.5" ybr="283.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="110" ytl="259" xbr="193.5" ybr="348.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="6" ytl="288" xbr="95" ybr="375.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="47" ytl="347" xbr="144.5" ybr="434.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="115" ytl="402" xbr="204" ybr="495" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="166" ytl="339" xbr="231" ybr="399" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="237" ytl="330" xbr="323.5" ybr="408.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="201" ytl="254" xbr="298" ybr="345" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="252" ytl="152" xbr="330.5" ybr="229" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="322" ytl="331" xbr="400.5" ybr="406" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="298" ytl="417" xbr="378.5" ybr="505" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="219" ytl="397" xbr="306" ybr="493" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="173" ytl="508" xbr="261" ybr="612.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="256" ytl="555" xbr="343" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="396" ytl="557" xbr="472.5" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="299" ytl="236" xbr="361" ybr="317.5" z_order="0"/>
+    </image>
+    <image id="8" name="04767_jpg.rf.1565814c8e9cfb15b3dd0f0240a0ad45.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="56" xbr="640" ybr="553.778" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="227" ytl="201" xbr="256" ybr="225.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="417" ytl="236" xbr="437.5" ybr="256" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="449" ytl="240" xbr="482.5" ybr="269" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="157" ytl="194" xbr="200" ybr="229" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="267" ytl="193" xbr="305.5" ybr="219.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="418" ytl="151" xbr="452" ybr="176" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="292" ytl="337" xbr="315.5" ybr="360" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="254" ytl="258" xbr="289.5" ybr="286" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="406" ytl="124" xbr="437" ybr="146" z_order="0"/>
+    </image>
+    <image id="9" name="06374_jpg.rf.34a7fc26b5a1b5d4bc807ffd51174449.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="1" xbr="640" ybr="598.926" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="415" ytl="293" xbr="471.5" ybr="343" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="201" ytl="65" xbr="242.5" ybr="102.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="110" ytl="145" xbr="149" ybr="179" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="143" ytl="230" xbr="191" ybr="280" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="234" ytl="302" xbr="288.5" ybr="360" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="416" ytl="188" xbr="462.5" ybr="217" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="342" ytl="94" xbr="385" ybr="137.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="12" ytl="300" xbr="97.5" ybr="445" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="279" ytl="143" xbr="377" ybr="169.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="433" ytl="397" xbr="476.5" ybr="464" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="301" ytl="189" xbr="360.5" ybr="244.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="390" ytl="201" xbr="547.5" ybr="261" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="142" ytl="446" xbr="210.5" ybr="502.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="39" ytl="223" xbr="119.5" ybr="252" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="0" ytl="281" xbr="54" ybr="329" z_order="0"/>
+    </image>
+    <image id="10" name="02792_jpg.rf.4695c781c61bf5371c135605b0f90981.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="8" ytl="106" xbr="631.407" ybr="506.593" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="313" ytl="300" xbr="445.5" ybr="397" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="400" ytl="197" xbr="524.5" ybr="291" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="296" ytl="125" xbr="397.5" ybr="191" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="108" ytl="117" xbr="230.5" ybr="175.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="26" ytl="179" xbr="131.5" ybr="262" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="107" ytl="279" xbr="219.5" ybr="385.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="207" ytl="210" xbr="309" ybr="287" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="322" ytl="399" xbr="392.5" ybr="455.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="466" ytl="279" xbr="530.5" ybr="321" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="451" ytl="339" xbr="521" ybr="391" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="227" ytl="363" xbr="294" ybr="411" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="183" ytl="398" xbr="257.5" ybr="446.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="194" ytl="261" xbr="281" ybr="311" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="128" ytl="211" xbr="164" ybr="243.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="183" ytl="151" xbr="243" ybr="186.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="237" ytl="116" xbr="289.5" ybr="153" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="344" ytl="174" xbr="389" ybr="239" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="394" ytl="140" xbr="456.5" ybr="169.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="261" ytl="334" xbr="314.5" ybr="383.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="319" ytl="249" xbr="403.5" ybr="289" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="144" ytl="192" xbr="219.5" ybr="247.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="148" ytl="166" xbr="246" ybr="200" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="136" ytl="188" xbr="208" ybr="212.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="273" ytl="167" xbr="355.5" ybr="231" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="306" ytl="228" xbr="366.5" ybr="256.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="177" ytl="312" xbr="286.5" ybr="395" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="420" ytl="283" xbr="472" ybr="342.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="511" ytl="220" xbr="575" ybr="276.5" z_order="0"/>
+    </image>
+    <image id="11" name="02667_jpg.rf.2bd72fd8ad3e44b21c31b1c6e9b8f922.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="118" ytl="15" xbr="597.4069999999999" ybr="608.383" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="455" ytl="452" xbr="506.5" ybr="509.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="550" ytl="262" xbr="587.5" ybr="335.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="454" ytl="178" xbr="508" ybr="237.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="255" ytl="37" xbr="283.5" ybr="105.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="233" ytl="180" xbr="276.5" ybr="224" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="285" ytl="459" xbr="340.5" ybr="525.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="365" ytl="486" xbr="402.5" ybr="534" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="185" ytl="322" xbr="291" ybr="395.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="200" ytl="224" xbr="244" ybr="268" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="121" ytl="232" xbr="160" ybr="279" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="133" ytl="180" xbr="180.5" ybr="240" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="245" ytl="112" xbr="306.5" ybr="159.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="341" ytl="71" xbr="387.5" ybr="139.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="406" ytl="129" xbr="465.5" ybr="191.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="468" ytl="245" xbr="514" ybr="299.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="432" ytl="342" xbr="507.5" ybr="414.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="531" ytl="393" xbr="573" ybr="455.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="373" ytl="286" xbr="417" ybr="355.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="363" ytl="238" xbr="396.5" ybr="309.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="433" ytl="195" xbr="461" ybr="239" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="313" ytl="335" xbr="361" ybr="416.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="285" ytl="153" xbr="339.5" ybr="207" z_order="0"/>
+    </image>
+    <image id="12" name="06904_jpg.rf.0644261293f31e2c2e3989a31409abbe.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="203" ytl="76" xbr="640.3330000000001" ybr="639.556" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="424" ytl="325" xbr="467.5" ybr="405.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="396" ytl="136" xbr="517" ybr="210.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="510" ytl="130" xbr="584.5" ybr="205" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="427" ytl="223" xbr="502.5" ybr="262.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="372" ytl="360" xbr="445" ybr="428" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="566" ytl="337" xbr="603" ybr="370" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="611" ytl="379" xbr="636" ybr="419" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="559" ytl="255" xbr="586.5" ybr="283.5" z_order="0"/>
+    </image>
+    <image id="13" name="04106_jpg.rf.3cbdf6f640324830b754e53073b37473.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="147" ytl="216" xbr="195.5" ybr="277" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="85" ytl="149" xbr="129" ybr="182.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="29" ytl="333" xbr="70.5" ybr="379.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="49" ytl="271" xbr="92.5" ybr="319.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="173" ytl="355" xbr="210" ybr="409" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="248" ytl="337" xbr="304" ybr="391.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="241" ytl="278" xbr="291" ybr="319.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="278" ytl="235" xbr="331.5" ybr="279" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="295" ytl="282" xbr="324" ybr="320" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="338" ytl="280" xbr="377.5" ybr="329.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="379" ytl="280" xbr="424.5" ybr="340" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="359" ytl="335" xbr="410.5" ybr="377" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="378" ytl="395" xbr="437.5" ybr="464" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="195" ytl="391" xbr="267" ybr="451" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="300" ytl="465" xbr="359.5" ybr="531.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="441" ytl="315" xbr="493" ybr="390.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="448" ytl="224" xbr="499.5" ybr="267" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="461" ytl="164" xbr="509" ybr="202" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="572" ytl="107" xbr="625.5" ybr="150" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="527" ytl="257" xbr="580.5" ybr="310.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="463" ytl="280" xbr="543.5" ybr="341" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="289" ytl="99" xbr="337" ybr="144.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="330" ytl="92" xbr="389.5" ybr="141.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="301" ytl="56" xbr="350.5" ybr="94" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="200" ytl="82" xbr="264" ybr="123.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="226" ytl="52" xbr="281.5" ybr="95.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="421" ytl="73" xbr="468.5" ybr="106.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="473" ytl="53" xbr="523.5" ybr="90" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="535" ytl="71" xbr="582.5" ybr="107" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="412" ytl="109" xbr="457" ybr="141.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="466" ytl="123" xbr="512.5" ybr="159" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="602" ytl="255" xbr="639.5" ybr="304.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="119" ytl="409" xbr="169" ybr="457" z_order="0"/>
+    </image>
+    <image id="14" name="07811_jpg.rf.4920ce795f2e03cb8d6bc5467a2f13c4.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="81" xbr="592.593" ybr="640.407" z_order="0"/>
+    </image>
+    <image id="15" name="00802_jpg.rf.4afc0be704adfa456e7022acf35569ff.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="36" xbr="626.37" ybr="609.037" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="238" ytl="432" xbr="305" ybr="482" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="91" ytl="410" xbr="154" ybr="458.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="70" ytl="341" xbr="138.5" ybr="379" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="80" ytl="250" xbr="136.5" ybr="300" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="107" ytl="165" xbr="166.5" ybr="217" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="167" ytl="104" xbr="223.5" ybr="158" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="238" ytl="98" xbr="267.5" ybr="148" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="276" ytl="136" xbr="341" ybr="187.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="198" ytl="177" xbr="249.5" ybr="218" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="169" ytl="235" xbr="233" ybr="280" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="198" ytl="281" xbr="239" ybr="333.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="291" ytl="202" xbr="335" ybr="258" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="366" ytl="170" xbr="405.5" ybr="218.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="408" ytl="140" xbr="461.5" ybr="173" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="287" ytl="88" xbr="347" ybr="134.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="289" ytl="277" xbr="324" ybr="330.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="245" ytl="356" xbr="291" ybr="399" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="329" ytl="357" xbr="385.5" ybr="410.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="393" ytl="405" xbr="447" ybr="461" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="343" ytl="481" xbr="388" ybr="524" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="421" ytl="346" xbr="459" ybr="385.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="464" ytl="356" xbr="525" ybr="428" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="478" ytl="272" xbr="536.5" ybr="345.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="475" ytl="209" xbr="545" ybr="265.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="421" ytl="202" xbr="450.5" ybr="266" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="149" ytl="340" xbr="197" ybr="378" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="229" ytl="246" xbr="302" ybr="294.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="125" ytl="143" xbr="197.5" ybr="173.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="399" ytl="167" xbr="462" ybr="212" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="309" ytl="119" xbr="366.5" ybr="151.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="291" ytl="379" xbr="354" ybr="460.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="122" ytl="375" xbr="174.5" ybr="408.5" z_order="0"/>
+    </image>
+    <image id="16" name="03768_jpg.rf.5e009f0c15bf25912097d8ab3388144f.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="28" xbr="640" ybr="598.097" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="206" ytl="437" xbr="300.255" ybr="534.864" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="547" ytl="280" xbr="624.9639999999999" ybr="374.757" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="482" ytl="212" xbr="560.5" ybr="276" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="529" ytl="154" xbr="596" ybr="212" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="449" ytl="65" xbr="511.5" ybr="124.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="302" ytl="31" xbr="364" ybr="80" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="301" ytl="86" xbr="370" ybr="129.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="343" ytl="142" xbr="380" ybr="190.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="248" ytl="131" xbr="305" ybr="190" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="323" ytl="436" xbr="428" ybr="537.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="316" ytl="277" xbr="395.5" ybr="365" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="268" ytl="209" xbr="327.5" ybr="281.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="393" ytl="251" xbr="467" ybr="341" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="89" ytl="307" xbr="164" ybr="379" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="88" ytl="400" xbr="180.5" ybr="494.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="183" ytl="285" xbr="262" ybr="368.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="29" ytl="230" xbr="97" ybr="300" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="69" ytl="138" xbr="122" ybr="187.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="135" ytl="138" xbr="198.5" ybr="194" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="192" ytl="97" xbr="252" ybr="142.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="254" ytl="70" xbr="307" ybr="118" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="366" ytl="40" xbr="414" ybr="91.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="450" ytl="112" xbr="504.5" ybr="168.5" z_order="0"/>
+    </image>
+    <image id="17" name="05691_jpg.rf.592ceed507a5aec75bab2b1010a11f47.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="136" ytl="127" xbr="568.729" ybr="549.251" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="415" ytl="298" xbr="461.5" ybr="344.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="297" ytl="378" xbr="329" ybr="438" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="431" ytl="358" xbr="467.5" ybr="396" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="331" ytl="312" xbr="393" ybr="361.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="245" ytl="263" xbr="300.5" ybr="314" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="341" ytl="160" xbr="381.5" ybr="205" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="360" ytl="240" xbr="390" ybr="278" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="391" ytl="212" xbr="435" ybr="271" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="211" ytl="384" xbr="269.5" ybr="417" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="272" ytl="193" xbr="300.5" ybr="214" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="372" ytl="162" xbr="393" ybr="189" z_order="0"/>
+    </image>
+    <image id="18" name="06764_jpg.rf.5642229a7c774ccc912e8a615551bea0.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="28" xbr="640" ybr="634.222" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="343" ytl="412" xbr="456.778" ybr="529.926" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="436" ytl="332" xbr="547.407" ybr="432.741" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="473" ytl="200" xbr="569" ybr="319.111" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="353" ytl="121" xbr="455.519" ybr="207.519" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="213" ytl="421" xbr="319.074" ybr="514.63" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="93" ytl="351" xbr="210.926" ybr="477.222" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="80" ytl="190" xbr="199.704" ybr="282.444" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="136" ytl="104" xbr="244.44400000000002" ybr="172.148" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="256" ytl="78" xbr="344.889" ybr="156.22199999999998" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="261" ytl="304" xbr="354.03700000000003" ybr="389.926" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="120" ytl="178" xbr="208.296" ybr="247.926" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="120" ytl="55" xbr="268.148" ybr="118.407" z_order="0"/>
+    </image>
+    <image id="19" name="03954_jpg.rf.4d0472f8819469f08b56cd0a53206e0c.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="37" ytl="14" xbr="631.37" ybr="633.852" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="96" ytl="330" xbr="140" ybr="370" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="95" ytl="444" xbr="125.5" ybr="489.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="217" ytl="394" xbr="256" ybr="433.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="306" ytl="391" xbr="349" ybr="423.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="491" ytl="339" xbr="531" ybr="382" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="457" ytl="87" xbr="500.5" ybr="123" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="219" ytl="229" xbr="253" ybr="266.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="340" ytl="184" xbr="375" ybr="236.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="424" ytl="233" xbr="453" ybr="269" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="373" ytl="420" xbr="406" ybr="458" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="156" ytl="128" xbr="177" ybr="159.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="188" ytl="114" xbr="213.5" ybr="139" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="130" ytl="169" xbr="216.5" ybr="239" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="105" ytl="241" xbr="162.5" ybr="284.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="429" ytl="154" xbr="497" ybr="227" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="481" ytl="173" xbr="551.5" ybr="243" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="339" ytl="262" xbr="413.5" ybr="312" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="223" ytl="430" xbr="306" ybr="498.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="463" ytl="398" xbr="528" ybr="458.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="158" ytl="487" xbr="218.5" ybr="541.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="268" ytl="497" xbr="307.5" ybr="540.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="222" ytl="280" xbr="288" ybr="318" z_order="0"/>
+    </image>
+    <image id="20" name="00323_jpg.rf.655d87af91fd57fd1feaf393b4c3d1df.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="59" xbr="640" ybr="528.3330000000001" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="538" ytl="157" xbr="576" ybr="194.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="282" ytl="174" xbr="312.5" ybr="209" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="393" ytl="209" xbr="430" ybr="246" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="564" ytl="249" xbr="614" ybr="275.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="479" ytl="354" xbr="513" ybr="391" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="289" ytl="327" xbr="332" ybr="360" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="154" ytl="295" xbr="200" ybr="324.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="181" ytl="227" xbr="231.5" ybr="275.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="32" ytl="238" xbr="80.5" ybr="260.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="65" ytl="353" xbr="104" ybr="392" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="203" ytl="80" xbr="235.5" ybr="108.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="403" ytl="105" xbr="438.5" ybr="135.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="310" ytl="82" xbr="335.5" ybr="104.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="312" ytl="175" xbr="334.5" ybr="204" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="355" ytl="339" xbr="419" ybr="405" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="458" ytl="307" xbr="532.5" ybr="352.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="514" ytl="199" xbr="599.5" ybr="249.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="380" ytl="155" xbr="454.5" ybr="201" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="160" ytl="81" xbr="223" ybr="137.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="75" ytl="139" xbr="141" ybr="187" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="38" ytl="265" xbr="100.5" ybr="316.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="122" ytl="355" xbr="180" ybr="407.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="245" ytl="397" xbr="287" ybr="440" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="194" ytl="294" xbr="269.5" ybr="342.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="354" ytl="254" xbr="436.5" ybr="297" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="70" ytl="260" xbr="212" ybr="341" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="143" ytl="324" xbr="270.5" ybr="408.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="121" ytl="326" xbr="251.5" ybr="368" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="344" ytl="285" xbr="429.5" ybr="379" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="446" ytl="269" xbr="524.5" ybr="300.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="433" ytl="199" xbr="552" ybr="272" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="410" ytl="116" xbr="512" ybr="198.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="263" ytl="72" xbr="327.5" ybr="156.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="357" ytl="53" xbr="412.5" ybr="130.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="88" ytl="143" xbr="200.5" ybr="235" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="79" ytl="222" xbr="168" ybr="269.5" z_order="0"/>
+    </image>
+    <image id="21" name="03738_jpg.rf.617b62c5caf3827140a023ee16d50fe2.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="6" ytl="15" xbr="632.667" ybr="639.762" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="481" ytl="336" xbr="557" ybr="418" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="414" ytl="420" xbr="495" ybr="525.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="309" ytl="412" xbr="387.5" ybr="515.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="215" ytl="321" xbr="290" ybr="400" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="219" ytl="378" xbr="300" ybr="460" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="115" ytl="351" xbr="187" ybr="437" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="121" ytl="278" xbr="195.5" ybr="352.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="149" ytl="225" xbr="208.5" ybr="286.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="135" ytl="180" xbr="194.5" ybr="233.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="177" ytl="147" xbr="230.5" ybr="199" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="222" ytl="180" xbr="273" ybr="236" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="208" ytl="265" xbr="277" ybr="335.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="285" ytl="236" xbr="347" ybr="289" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="350" ytl="311" xbr="422" ybr="396" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="405" ytl="266" xbr="473.5" ybr="340.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="497" ytl="247" xbr="565.5" ybr="327" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="538" ytl="198" xbr="601" ybr="267.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="465" ytl="118" xbr="523.5" ybr="174" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="423" ytl="82" xbr="472" ybr="134" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="376" ytl="36" xbr="425" ybr="81.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="285" ytl="43" xbr="332" ybr="95" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="228" ytl="39" xbr="272.5" ybr="84.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="202" ytl="64" xbr="253.5" ybr="114" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="233" ytl="121" xbr="286.5" ybr="179" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="282" ytl="117" xbr="338.5" ybr="178" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="347" ytl="111" xbr="404.5" ybr="167" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="401" ytl="133" xbr="447.5" ybr="185.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="427" ytl="165" xbr="491.5" ybr="227.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="426" ytl="217" xbr="482.5" ybr="277.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="370" ytl="210" xbr="428.5" ybr="275" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="333" ytl="185" xbr="390" ybr="241" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="296" ytl="166" xbr="354" ybr="222" z_order="0"/>
+    </image>
+    <image id="22" name="06646_jpg.rf.63f89c7392d1cbef82ee9869c6af3ae6.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="43" ytl="0" xbr="535.444" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="150" ytl="284" xbr="177" ybr="342" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="145" ytl="391" xbr="175" ybr="442.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="177" ytl="385" xbr="199.5" ybr="440.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="203" ytl="344" xbr="237" ybr="387.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="203" ytl="284" xbr="238" ybr="344" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="219" ytl="147" xbr="253" ybr="228.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="209" ytl="74" xbr="241" ybr="120" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="392" ytl="178" xbr="419" ybr="224.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="376" ytl="222" xbr="401" ybr="279.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="359" ytl="533" xbr="392" ybr="571" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="276" ytl="528" xbr="303" ybr="580" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="262" ytl="285" xbr="283.5" ybr="321" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="327" ytl="192" xbr="348.5" ybr="240.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="284" ytl="6" xbr="309.5" ybr="66" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="170" ytl="59" xbr="199.5" ybr="113.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="242" ytl="419" xbr="272.5" ybr="463.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="329" ytl="437" xbr="349.5" ybr="479" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="354" ytl="460" xbr="376" ybr="502" z_order="0"/>
+    </image>
+    <image id="23" name="04380_jpg.rf.5e8f741a2bb88d74b65bd18addbdf9c2.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="63" ytl="0" xbr="640.333" ybr="581.333" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="434" ytl="316" xbr="640.061" ybr="564.485" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="557" ytl="429" xbr="579.5" ybr="460" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="581" ytl="421" xbr="603" ybr="447.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="560" ytl="340" xbr="585" ybr="363" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="551" ytl="212" xbr="577" ybr="247" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="382" ytl="107" xbr="421.5" ybr="149" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="480" ytl="129" xbr="508.5" ybr="161.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="506" ytl="70" xbr="535.5" ybr="98.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="138" ytl="332" xbr="192.5" ybr="372.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="317" ytl="413" xbr="349" ybr="450" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="241" ytl="427" xbr="272" ybr="461" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="374" ytl="432" xbr="406.5" ybr="469.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="327" ytl="367" xbr="358" ybr="396.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="359" ytl="281" xbr="379.5" ybr="308.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="363" ytl="185" xbr="400" ybr="230.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="314" ytl="145" xbr="358" ybr="187.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="227" ytl="144" xbr="253.5" ybr="172.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="141" ytl="200" xbr="163" ybr="223" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="401" ytl="356" xbr="424" ybr="380" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="538" ytl="459" xbr="563" ybr="510" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="525" ytl="346" xbr="555.5" ybr="378.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="220" ytl="253" xbr="248.5" ybr="285.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="170" ytl="273" xbr="196.5" ybr="304.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="423" ytl="190" xbr="448.5" ybr="218.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="421" ytl="221" xbr="448.5" ybr="252" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="408" ytl="208" xbr="425" ybr="230.5" z_order="0"/>
+    </image>
+    <image id="24" name="00637_jpg.rf.6d878df5ce8f11dd663ab2c990af6e80.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="45" xbr="640" ybr="590.72" z_order="0"/>
+    </image>
+    <image id="25" name="05809_jpg.rf.6cddb860ff65fcbf0cbf888cdeca9555.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="83" xbr="564.171" ybr="640.093" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="127" ytl="169" xbr="189.5" ybr="228.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="245" ytl="229" xbr="317" ybr="289" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="220" ytl="474" xbr="310.5" ybr="558.5" z_order="0"/>
+    </image>
+    <image id="26" name="08938_jpg.rf.69efaf19ac4d4998bb8638944e654099.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="36" ytl="0" xbr="627.407" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="430" ytl="130" xbr="543.5" ybr="252.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="261" ytl="56" xbr="370.5" ybr="179" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="112" ytl="186" xbr="239.5" ybr="306.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="275" ytl="227" xbr="399" ybr="355" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="197" ytl="385" xbr="322.5" ybr="532.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="409" ytl="344" xbr="539.5" ybr="500.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="211" ytl="123" xbr="265.5" ybr="200" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="365" ytl="112" xbr="420.5" ybr="200.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="152" ytl="311" xbr="222.5" ybr="399" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="324" ytl="374" xbr="388.5" ybr="473.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="437" ytl="250" xbr="513" ybr="348" z_order="0"/>
+    </image>
+    <image id="27" name="04472_jpg.rf.776f2ef238278d49ebda9681260eb3cd.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="472" ytl="461" xbr="505" ybr="497" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="592" ytl="404" xbr="620.5" ybr="435" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="543" ytl="288" xbr="567" ybr="319" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="510" ytl="313" xbr="535" ybr="344" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="367" ytl="365" xbr="405.5" ybr="412" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="352" ytl="347" xbr="376" ybr="380" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="380" ytl="428" xbr="401.5" ybr="454" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="432" ytl="422" xbr="455" ybr="450.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="425" ytl="198" xbr="460.5" ybr="229.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="514" ytl="211" xbr="532.5" ybr="237.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="475" ytl="152" xbr="515.5" ybr="184" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="500" ytl="101" xbr="518.5" ybr="124" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="532" ytl="84" xbr="545" ybr="108.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="584" ytl="81" xbr="607.5" ybr="106.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="440" ytl="42" xbr="457" ybr="59" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="431" ytl="62" xbr="454" ybr="102.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="416" ytl="97" xbr="437.5" ybr="122.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="395" ytl="106" xbr="424.5" ybr="173" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="377" ytl="120" xbr="392.5" ybr="177.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="367" ytl="193" xbr="384" ybr="215" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="365" ytl="265" xbr="384.5" ybr="309.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="312" ytl="315" xbr="337" ybr="355" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="286" ytl="325" xbr="311.5" ybr="348.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="283" ytl="371" xbr="310" ybr="397" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="212" ytl="419" xbr="238.5" ybr="457.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="183" ytl="453" xbr="208.5" ybr="500" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="112" ytl="441" xbr="146" ybr="480.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="93" ytl="382" xbr="123" ybr="423.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="66" ytl="250" xbr="89" ybr="286" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="181" ytl="217" xbr="199" ybr="250.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="105" ytl="182" xbr="122" ybr="209.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="167" ytl="87" xbr="179.5" ybr="109" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="236" ytl="102" xbr="251.5" ybr="128.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="268" ytl="121" xbr="289" ybr="150" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="270" ytl="92" xbr="294.5" ybr="119.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="285" ytl="11" xbr="306" ybr="38.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="213" ytl="54" xbr="229" ybr="79.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="224" ytl="83" xbr="239.5" ybr="106" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="246" ytl="68" xbr="264" ybr="89.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="313" ytl="39" xbr="325.5" ybr="62" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="283" ytl="43" xbr="301" ybr="69.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="267" ytl="207" xbr="293" ybr="244.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="242" ytl="222" xbr="268" ybr="266.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="206" ytl="242" xbr="226.5" ybr="264" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="173" ytl="270" xbr="196" ybr="300.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="140" ytl="250" xbr="163.5" ybr="278" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="112" ytl="279" xbr="138" ybr="304" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="216" ytl="367" xbr="246.5" ybr="406" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="179" ytl="408" xbr="206.5" ybr="439.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="419" ytl="362" xbr="435.5" ybr="388.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="447" ytl="240" xbr="480.5" ybr="288.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="459" ytl="204" xbr="502" ybr="240.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="326" ytl="238" xbr="351" ybr="272" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="209" ytl="126" xbr="224" ybr="147.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="243" ytl="503" xbr="335.5" ybr="579" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="395" ytl="455" xbr="463.5" ybr="522" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="389" ytl="283" xbr="463" ybr="367" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="460" ytl="240" xbr="535" ybr="305.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="297" ytl="119" xbr="346.5" ybr="205.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="330" ytl="195" xbr="388.5" ybr="245" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="436" ytl="149" xbr="483" ybr="192" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="494" ytl="107" xbr="569" ybr="143" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="403" ytl="25" xbr="500.5" ybr="67" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="301" ytl="0" xbr="346.5" ybr="49" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="376" ytl="0" xbr="414.5" ybr="23.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="268" ytl="0" xbr="291.5" ybr="23" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="90" ytl="24" xbr="151.5" ybr="81.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="49" ytl="74" xbr="113.5" ybr="126.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="3" ytl="143" xbr="79" ybr="181.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="93" ytl="205" xbr="163.5" ybr="270" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="121" ytl="155" xbr="237" ybr="193.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="195" ytl="209" xbr="241" ybr="234" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="138" ytl="250" xbr="192" ybr="289.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="127" ytl="286" xbr="148" ybr="373" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="100" ytl="368" xbr="147" ybr="397" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="144" ytl="323" xbr="181" ybr="370" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="265" ytl="313" xbr="317.5" ybr="369.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="382" ytl="293" xbr="436" ybr="359.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="257" ytl="418" xbr="333.5" ybr="452" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="250" ytl="258" xbr="319" ybr="305" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="60" ytl="309" xbr="82" ybr="348" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="103" ytl="171" xbr="145" ybr="218.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="166" ytl="136" xbr="204.5" ybr="176" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="223" ytl="113" xbr="254" ybr="164.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="325" ytl="80" xbr="379.5" ybr="111" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="468" ytl="84" xbr="498.5" ybr="124.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="226" ytl="317" xbr="266" ybr="347" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="567" ytl="274" xbr="601" ybr="313.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="399" ytl="241" xbr="435.5" ybr="277" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="297" ytl="219" xbr="327.5" ybr="263.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="146" ytl="376" xbr="185.5" ybr="441.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="186" ytl="357" xbr="226.5" ybr="411.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="244" ytl="348" xbr="271.5" ybr="382.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="240" ytl="391" xbr="265" ybr="426.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="306" ytl="365" xbr="382.5" ybr="453" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="439" ytl="360" xbr="478" ybr="414" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="451" ytl="304" xbr="510.5" ybr="356.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="357" ytl="169" xbr="455.5" ybr="220" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="393" ytl="68" xbr="442.5" ybr="101" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="449" ytl="89" xbr="498" ybr="146" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="294" ytl="85" xbr="324" ybr="133.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="114" ytl="107" xbr="137.5" ybr="155" z_order="0"/>
+    </image>
+    <image id="28" name="05267_jpg.rf.78fe10099bffaab68d33af6697fdf988.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="591.407" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="7" ytl="97" xbr="160.5" ybr="184.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="73" ytl="0" xbr="204" ybr="95" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="181" ytl="104" xbr="287" ybr="226.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="466" ytl="205" xbr="541" ybr="297" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="346" ytl="0" xbr="417.5" ybr="51" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="440" ytl="463" xbr="496" ybr="543.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="280" ytl="259" xbr="330" ybr="314.5" z_order="0"/>
+    </image>
+    <image id="29" name="08996_jpg.rf.7893dc5041141e5ea06d101e2c21564b.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="77" xbr="640" ybr="639.963" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="205" ytl="123" xbr="300.5" ybr="200" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="75" ytl="184" xbr="164" ybr="242.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="14" ytl="313" xbr="91" ybr="374" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="177" ytl="278" xbr="241" ybr="348.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="312" ytl="459" xbr="391" ybr="514.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="553" ytl="478" xbr="623" ybr="596.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="71" ytl="476" xbr="157.5" ybr="571" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="371" ytl="325" xbr="470" ybr="406" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="523" ytl="330" xbr="639.5" ybr="375" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="323" ytl="604" xbr="368.5" ybr="638" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="250" ytl="439" xbr="323.5" ybr="480" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="390" ytl="440" xbr="471.5" ybr="512" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="331" ytl="236" xbr="381.5" ybr="270" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="349" ytl="141" xbr="438" ybr="218.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="57" ytl="232" xbr="98.5" ybr="282" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="93" ytl="376" xbr="132" ybr="415.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="46" ytl="426" xbr="81" ybr="474.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="161" ytl="452" xbr="198" ybr="502" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="197" ytl="432" xbr="227.5" ybr="474" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="203" ytl="383" xbr="240.5" ybr="431" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="190" ytl="222" xbr="233" ybr="267.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="295" ytl="231" xbr="332.5" ybr="277" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="322" ytl="278" xbr="355.5" ybr="323.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="327" ytl="153" xbr="363" ybr="190" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="500" ytl="272" xbr="529.5" ybr="306" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="518" ytl="361" xbr="563" ybr="407.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="459" ytl="547" xbr="496" ybr="588" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="513" ytl="597" xbr="543.5" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="503" ytl="520" xbr="530.5" ybr="555" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="384" ytl="572" xbr="423.5" ybr="620" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="343" ytl="565" xbr="377" ybr="604.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="293" ytl="571" xbr="341.5" ybr="616.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="82" ytl="569" xbr="124" ybr="621" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="579" ytl="237" xbr="603.5" ybr="272" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="486" ytl="454" xbr="530" ybr="502.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="218" ytl="489" xbr="268" ybr="534" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="427" ytl="338" xbr="493.5" ybr="439.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="263" ytl="184" xbr="331" ybr="292.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="373" ytl="199" xbr="429.5" ybr="291" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="412" ytl="179" xbr="553.5" ybr="229" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="566" ytl="286" xbr="603" ybr="405" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="545" ytl="442" xbr="638" ybr="503" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="98" ytl="418" xbr="171.5" ybr="536" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="91" ytl="286" xbr="183" ybr="321" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="173" ytl="350" xbr="283" ybr="423.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="272" ytl="504" xbr="309.5" ybr="634.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="530" ytl="562" xbr="567" ybr="622.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="546" ytl="441" xbr="638" ybr="516.5" z_order="0"/>
+    </image>
+    <image id="30" name="02260_jpg.rf.7c81dcaa6adc41ea033d720dc3aeef5e.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="137" xbr="561.185" ybr="510.096" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="56" ytl="398" xbr="154.963" ybr="455.837" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="0" ytl="336" xbr="88.296" ybr="390.993" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="19" ytl="241" xbr="107.889" ybr="291.726" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="94" ytl="284" xbr="187.037" ybr="335.2" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="177" ytl="230" xbr="264.704" ybr="284.993" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="128" ytl="183" xbr="204.44400000000002" ybr="231.82999999999998" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="265" ytl="252" xbr="359.815" ybr="305.096" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="301" ytl="302" xbr="395.815" ybr="363.156" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="370" ytl="208" xbr="450.593" ybr="250.667" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="427" ytl="288" xbr="515.889" ybr="361.956" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="290" ytl="416" xbr="388.96299999999997" ybr="470.044" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="194" ytl="334" xbr="273.407" ybr="394.207" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="246" ytl="179" xbr="324.815" ybr="217.4" z_order="0"/>
+    </image>
+    <image id="31" name="04377_jpg.rf.79257571b5d12d456dfd860664c54a1f.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="45" xbr="640" ybr="594.521" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="93" ytl="134" xbr="153.5" ybr="181.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="33" ytl="205" xbr="94.5" ybr="264" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="19" ytl="290" xbr="79.5" ybr="352.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="40" ytl="344" xbr="104.5" ybr="401.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="77" ytl="405" xbr="160" ybr="464" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="162" ytl="324" xbr="242" ybr="392.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="190" ytl="251" xbr="260.5" ybr="311.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="243" ytl="480" xbr="317" ybr="552" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="157" ytl="454" xbr="231" ybr="525.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="334" ytl="485" xbr="403" ybr="563" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="517" ytl="440" xbr="589" ybr="514" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="551" ytl="377" xbr="613" ybr="437.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="394" ytl="307" xbr="468" ybr="368.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="454" ytl="89" xbr="514" ybr="144.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="558" ytl="174" xbr="622.5" ybr="227.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="607" ytl="306" xbr="639.5" ybr="375" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="334" ytl="427" xbr="412.5" ybr="476" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="251" ytl="299" xbr="328" ybr="362.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="214" ytl="75" xbr="276" ybr="134.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="372" ytl="120" xbr="430.5" ybr="160.5" z_order="0"/>
+    </image>
+    <image id="32" name="00125_jpg.rf.7db980fe8b3a3997a49382cafd2c1586.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="49" ytl="107" xbr="639.815" ybr="640.333" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="552" ytl="238" xbr="585.5" ybr="283.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="449" ytl="194" xbr="493" ybr="243.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="392" ytl="151" xbr="437" ybr="204.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="361" ytl="266" xbr="402.5" ybr="318" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="293" ytl="290" xbr="339" ybr="333.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="195" ytl="413" xbr="243" ybr="470.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="145" ytl="490" xbr="190" ybr="540" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="221" ytl="488" xbr="271.5" ybr="535.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="319" ytl="509" xbr="362" ybr="549" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="408" ytl="413" xbr="453.5" ybr="495.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="539" ytl="385" xbr="584" ybr="431" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="415" ytl="327" xbr="447.5" ybr="364.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="569" ytl="463" xbr="611" ybr="516.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="549" ytl="581" xbr="604.5" ybr="635" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="360" ytl="600" xbr="409.5" ybr="640" z_order="0"/>
+    </image>
+    <image id="33" name="08738_jpg.rf.7cbf7dfac88e407ccfaa75ec61d5c093.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="161" ytl="479" xbr="231" ybr="547.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="84" ytl="227" xbr="150" ybr="296" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="3" ytl="301" xbr="63.5" ybr="360.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="79" ytl="550" xbr="154.5" ybr="620.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="445" ytl="163" xbr="489" ybr="209.5" z_order="0"/>
+    </image>
+    <image id="34" name="01984_jpg.rf.7d26eb467b256083edb78c782ee3ede0.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="14" xbr="640" ybr="640.335" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="191" ytl="105" xbr="236.5" ybr="150" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="105" ytl="274" xbr="148" ybr="308" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="201" ytl="407" xbr="242" ybr="454" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="493" ytl="448" xbr="541.5" ybr="507" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="323" ytl="72" xbr="388.5" ybr="127" z_order="0"/>
+    </image>
+    <image id="35" name="08354_jpg.rf.8fe51b915c7fa35ff2a5bd43785ed230.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="199" xbr="640" ybr="640.053" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="438" ytl="401" xbr="570.5" ybr="493.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="312" ytl="413" xbr="413.5" ybr="548" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="99" ytl="445" xbr="213" ybr="522.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="64" ytl="361" xbr="109.5" ybr="460" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="203" ytl="420" xbr="256.5" ybr="469" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="102" ytl="382" xbr="153" ybr="437" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="80" ytl="330" xbr="114.5" ybr="381" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="0" ytl="344" xbr="28" ybr="397.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="276" ytl="557" xbr="329.5" ybr="614.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="132" ytl="327" xbr="223.5" ybr="391.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="231" ytl="346" xbr="275" ybr="394.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="316" ytl="373" xbr="372" ybr="414.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="388" ytl="391" xbr="468" ybr="478.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="552" ytl="355" xbr="613" ybr="439" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="600" ytl="403" xbr="638.5" ybr="471" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="584" ytl="499" xbr="627" ybr="543" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="514" ytl="296" xbr="560.5" ybr="342" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="359" ytl="239" xbr="387" ybr="281.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="305" ytl="268" xbr="343.5" ybr="295" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="271" ytl="307" xbr="343.5" ybr="365" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="354" ytl="348" xbr="392.5" ybr="390" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="164" ytl="273" xbr="203.5" ybr="313.5" z_order="0"/>
+    </image>
+    <image id="36" name="04616_jpg.rf.7de3f38cde31324064fff14c1649d418.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="16" ytl="55" xbr="588.444" ybr="549.617" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="238" ytl="421" xbr="325.5" ybr="486.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="242" ytl="324" xbr="280.5" ybr="434" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="153" ytl="437" xbr="235.5" ybr="510" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="399" ytl="415" xbr="428" ybr="507.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="382" ytl="316" xbr="446.5" ybr="411.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="461" ytl="316" xbr="558.5" ybr="396" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="448" ytl="293" xbr="499" ybr="341" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="418" ytl="243" xbr="476.5" ybr="299.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="491" ytl="177" xbr="528.5" ybr="238.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="467" ytl="138" xbr="551" ybr="209" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="411" ytl="100" xbr="469.5" ybr="170.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="344" ytl="80" xbr="420.5" ybr="150" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="294" ytl="79" xbr="337" ybr="133" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="214" ytl="88" xbr="286" ybr="149.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="163" ytl="117" xbr="247.5" ybr="170.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="152" ytl="163" xbr="204" ybr="256.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="66" ytl="221" xbr="135.5" ybr="289.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="108" ytl="280" xbr="228.5" ybr="390.5" z_order="0"/>
+    </image>
+    <image id="37" name="05039_jpg.rf.8b5fa5a6315c8c88dc2ab9c068efc27b.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="100" ytl="90" xbr="640.444" ybr="586.988" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="482" ytl="352" xbr="542.5" ybr="428" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="323" ytl="401" xbr="399.5" ybr="486" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="171" ytl="378" xbr="247.5" ybr="460" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="278" ytl="302" xbr="338.5" ybr="372" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="170" ytl="257" xbr="225.5" ybr="304" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="240" ytl="214" xbr="302" ybr="271" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="244" ytl="155" xbr="288" ybr="203.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="310" ytl="166" xbr="351.5" ybr="219" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="380" ytl="191" xbr="424" ybr="244.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="414" ytl="242" xbr="472.5" ybr="289" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="507" ytl="246" xbr="569.5" ybr="308.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="463" ytl="156" xbr="509" ybr="197.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="361" ytl="113" xbr="403.5" ybr="155.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="400" ytl="339" xbr="468" ybr="401.5" z_order="0"/>
+    </image>
+    <image id="38" name="04766_jpg.rf.9549573ddc8bfc27846da315c60e9622.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="36" ytl="29" xbr="588.296" ybr="512.3620000000001" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="172" ytl="330" xbr="234.815" ybr="401.99" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="295" ytl="289" xbr="347.148" ybr="342.004" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="327" ytl="355" xbr="383.296" ybr="425.408" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="436" ytl="306" xbr="491.704" ybr="375.617" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="500" ytl="248" xbr="542.074" ybr="297.048" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="391" ytl="112" xbr="436.037" ybr="157.88400000000001" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="362" ytl="191" xbr="404.074" ybr="247.168" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="270" ytl="127" xbr="318" ybr="174.466" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="343" ytl="66" xbr="385.66700000000003" ybr="113.46600000000001" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="277" ytl="43" xbr="313.148" ybr="86.08500000000001" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="211" ytl="49" xbr="251.889" ybr="85.39099999999999" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="119" ytl="165" xbr="171.74099999999999" ybr="209.788" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="206" ytl="183" xbr="254.5" ybr="225" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="73" ytl="256" xbr="123.963" ybr="310.586" z_order="0"/>
+    </image>
+    <image id="39" name="05078_jpg.rf.87d8e92e6e6b96e2a45d9f2849fe3d71.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="44" xbr="640" ybr="520.444" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="453" ytl="159" xbr="540.5" ybr="226" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="140" ytl="79" xbr="231" ybr="154.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="143" ytl="261" xbr="225" ybr="293.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="174" ytl="190" xbr="214" ybr="264.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="222" ytl="237" xbr="320.5" ybr="295" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="252" ytl="88" xbr="336.5" ybr="169" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="327" ytl="100" xbr="422.5" ybr="147.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="317" ytl="210" xbr="389" ybr="280.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="329" ytl="291" xbr="430.5" ybr="405" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="197" ytl="361" xbr="271" ybr="412.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="332" ytl="168" xbr="368.5" ybr="204.5" z_order="0"/>
+    </image>
+    <image id="40" name="05147_jpg.rf.9b40debdedfc737043b6202dbb91bb59.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="616.825" ybr="614.114" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="467" ytl="210" xbr="530.5" ybr="272.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="357" ytl="152" xbr="430" ybr="244" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="387" ytl="71" xbr="443.5" ybr="131.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="561" ytl="159" xbr="596" ybr="214" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="290" ytl="139" xbr="329" ybr="215" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="269" ytl="74" xbr="325.5" ybr="128" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="266" ytl="18" xbr="317" ybr="76.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="163" ytl="70" xbr="231" ybr="135" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="169" ytl="156" xbr="234" ybr="220.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="104" ytl="198" xbr="162" ybr="244.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="59" ytl="293" xbr="133" ybr="342" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="124" ytl="276" xbr="203.5" ybr="359" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="190" ytl="273" xbr="259.5" ybr="346.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="172" ytl="401" xbr="284" ybr="486.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="342" ytl="434" xbr="441.5" ybr="491.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="453" ytl="376" xbr="509" ybr="418" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="397" ytl="352" xbr="425.5" ybr="398.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="315" ytl="334" xbr="371.5" ybr="432" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="234" ytl="318" xbr="278.5" ybr="372" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="149" ytl="223" xbr="181" ybr="260" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="210" ytl="221" xbr="240" ybr="258.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="336" ytl="121" xbr="361.5" ybr="151" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="392" ytl="274" xbr="436" ybr="309.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="442" ytl="280" xbr="511.5" ybr="333" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="304" ytl="249" xbr="341.5" ybr="309.5" z_order="0"/>
+    </image>
+    <image id="41" name="05737_jpg.rf.972690c3445bd839d81dc385ad11b50f.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="4" ytl="0" xbr="640.19" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="200" ytl="149" xbr="282" ybr="222.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="309" ytl="255" xbr="371" ybr="314.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="219" ytl="238" xbr="287" ybr="303" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="69" ytl="263" xbr="140" ybr="321.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="142" ytl="303" xbr="207" ybr="373.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="74" ytl="423" xbr="141.5" ybr="492" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="232" ytl="373" xbr="314.5" ybr="457.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="74" ytl="52" xbr="112" ybr="101" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="357" ytl="92" xbr="438.5" ybr="158" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="400" ytl="218" xbr="462" ybr="297.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="465" ytl="224" xbr="525.5" ybr="296.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="464" ytl="356" xbr="535" ybr="436.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="578" ytl="329" xbr="640" ybr="406" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="557" ytl="417" xbr="627.5" ybr="502.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="340" ytl="433" xbr="377" ybr="499" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="382" ytl="461" xbr="431.5" ybr="518" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="194" ytl="516" xbr="259" ybr="598" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="371" ytl="558" xbr="445.5" ybr="629.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="600" ytl="542" xbr="640" ybr="603" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="449" ytl="570" xbr="493.5" ybr="613" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="469" ytl="47" xbr="534.5" ybr="98" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="304" ytl="0" xbr="385" ybr="23" z_order="0"/>
+    </image>
+    <image id="42" name="05675_jpg.rf.9a0cc8a70b314e524023e3df69f4ace4.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="584.296" ybr="640" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="309" ytl="405" xbr="396" ybr="522.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="311" ytl="270" xbr="439" ybr="421.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="430" ytl="357" xbr="508" ybr="451" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="260" ytl="331" xbr="324" ybr="516.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="3" ytl="428" xbr="155" ybr="599.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="88" ytl="235" xbr="168" ybr="347" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="310" ytl="1" xbr="398.5" ybr="117.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="369" ytl="167" xbr="482.5" ybr="270.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="253" ytl="211" xbr="301.5" ybr="252.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="82" ytl="99" xbr="143" ybr="178" z_order="0"/>
+    </image>
+    <image id="43" name="00345_jpg.rf.9f8fbaf6c2dcddc64965a5ef062566f5.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="423" ytl="358" xbr="526.5" ybr="431.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="530" ytl="434" xbr="634.5" ybr="544.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="546" ytl="347" xbr="640" ybr="411" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="250" ytl="253" xbr="340" ybr="333.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="49" ytl="320" xbr="163.5" ybr="414" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="190" ytl="175" xbr="279.5" ybr="244" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="53" ytl="157" xbr="153.5" ybr="206.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="0" ytl="179" xbr="53" ybr="251" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="12" ytl="18" xbr="65.5" ybr="56" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="354" ytl="77" xbr="406" ybr="116" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="394" ytl="132" xbr="466" ybr="191.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="568" ytl="175" xbr="622" ybr="229.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="539" ytl="86" xbr="602" ybr="131.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="471" ytl="17" xbr="530.5" ybr="70.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="404" ytl="32" xbr="462.5" ybr="73.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="237" ytl="35" xbr="276" ybr="74.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="210" ytl="376" xbr="351" ybr="438.5" z_order="0"/>
+    </image>
+    <image id="44" name="06763_jpg.rf.9fd38d64177cc7cebbb2e8fe4f6cf52b.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="18" ytl="0" xbr="559.95" ybr="204.42" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="49" ytl="503" xbr="549.3530000000001" ybr="640.27" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="401" ytl="152" xbr="454.5" ybr="199.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="332" ytl="138" xbr="380" ybr="184" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="267" ytl="122" xbr="316.5" ybr="163.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="177" ytl="95" xbr="228" ybr="138" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="227" ytl="113" xbr="264" ybr="155.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="116" ytl="75" xbr="165.5" ybr="114.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="49" ytl="61" xbr="95" ybr="100.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="90" ytl="23" xbr="129" ybr="64" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="147" ytl="30" xbr="189.5" ybr="72.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="196" ytl="55" xbr="237.5" ybr="97.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="245" ytl="69" xbr="286" ybr="114.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="291" ytl="82" xbr="330.5" ybr="122.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="342" ytl="92" xbr="391" ybr="133.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="424" ytl="108" xbr="475.5" ybr="148.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="480" ytl="96" xbr="522.5" ybr="133" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="494" ytl="65" xbr="546" ybr="102.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="410" ytl="42" xbr="462" ybr="79" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="418" ytl="81" xbr="459.5" ybr="115.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="360" ytl="65" xbr="416" ybr="110.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="365" ytl="28" xbr="408" ybr="70.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="321" ytl="24" xbr="368" ybr="55.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="310" ytl="52" xbr="351" ybr="92.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="210" ytl="27" xbr="252.5" ybr="60" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="258" ytl="39" xbr="291.5" ybr="74.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="273" ytl="10" xbr="308.5" ybr="43.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="228" ytl="2" xbr="260.5" ybr="29.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="160" ytl="6" xbr="207.5" ybr="35" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="112" ytl="6" xbr="161.5" ybr="33" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="406" ytl="11" xbr="456" ybr="44.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="461" ytl="21" xbr="506.5" ybr="54.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="507" ytl="28" xbr="542" ybr="56.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="513" ytl="6" xbr="544.5" ybr="30" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="469" ytl="0" xbr="513" ybr="25.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="422" ytl="592" xbr="484" ybr="635.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="441" ytl="561" xbr="496" ybr="596.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="422" ytl="523" xbr="460.5" ybr="560" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="298" ytl="499" xbr="349.5" ybr="530" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="350" ytl="531" xbr="387" ybr="561.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="360" ytl="563" xbr="403" ybr="598.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="292" ytl="567" xbr="343.5" ybr="602" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="331" ytl="605" xbr="386.5" ybr="639.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="282" ytl="615" xbr="326" ybr="639.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="191" ytl="602" xbr="259" ybr="638.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="232" ytl="568" xbr="274.5" ybr="600.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="242" ytl="504" xbr="279" ybr="533.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="269" ytl="526" xbr="316" ybr="561" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="199" ytl="523" xbr="252" ybr="564" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="168" ytl="504" xbr="213.5" ybr="541" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="173" ytl="551" xbr="217" ybr="585.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="110" ytl="532" xbr="156" ybr="569.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="83" ytl="573" xbr="140" ybr="612" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="471" ytl="144" xbr="524.5" ybr="190" z_order="0"/>
+    </image>
+    <image id="45" name="06791_jpg.rf.a4c8e7953705d690b0df673179e3b08d.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="406" ytl="561" xbr="442" ybr="596" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="333" ytl="145" xbr="372.5" ybr="187" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="383" ytl="216" xbr="413.5" ybr="252" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="419" ytl="286" xbr="450.5" ybr="315" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="523" ytl="301" xbr="564.5" ybr="346" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="578" ytl="121" xbr="617" ybr="183.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="184" ytl="8" xbr="206.5" ybr="36.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="246" ytl="21" xbr="277.5" ybr="64" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="112" ytl="108" xbr="162.5" ybr="146" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="417" ytl="349" xbr="501.5" ybr="440" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="226" ytl="470" xbr="351" ybr="596.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="9" ytl="346" xbr="67" ybr="431.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="18" ytl="227" xbr="98.5" ybr="273" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="175" ytl="226" xbr="225" ybr="278" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="167" ytl="35" xbr="254.5" ybr="98" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="398" ytl="84" xbr="458.5" ybr="166.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="368" ytl="460" xbr="403" ybr="493" z_order="0"/>
+    </image>
+    <image id="46" name="07758_jpg.rf.a7544148e450f4be2a52dc0172e277d8.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="14" ytl="66" xbr="639.778" ybr="564.244" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="143" ytl="393" xbr="219.5" ybr="461.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="67" ytl="206" xbr="119" ybr="267" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="59" ytl="294" xbr="107.5" ybr="331.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="124" ytl="309" xbr="182.5" ybr="344" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="169" ytl="271" xbr="227.5" ybr="322.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="228" ytl="253" xbr="266" ybr="315.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="76" ytl="370" xbr="118" ybr="411" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="227" ytl="331" xbr="294" ybr="397" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="311" ytl="277" xbr="358.5" ybr="347.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="363" ytl="303" xbr="411" ybr="370" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="317" ytl="371" xbr="385.5" ybr="410" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="244" ytl="438" xbr="315" ybr="491.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="364" ytl="412" xbr="395.5" ybr="462.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="415" ytl="410" xbr="446.5" ybr="445" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="465" ytl="375" xbr="490" ybr="406.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="148" ytl="177" xbr="185.5" ybr="209.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="265" ytl="166" xbr="306.5" ybr="200" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="402" ytl="132" xbr="433" ybr="157.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="518" ytl="304" xbr="549.5" ybr="329" z_order="0"/>
+    </image>
+    <image id="47" name="08113_jpg.rf.afffff15d021ad1169dbf7869a39fe83.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="89" xbr="640" ybr="585.082" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="395" ytl="400" xbr="455" ybr="448" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="261" ytl="426" xbr="317.5" ybr="475.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="179" ytl="321" xbr="242" ybr="367" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="124" ytl="328" xbr="177.5" ybr="368.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="53" ytl="327" xbr="102.5" ybr="362" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="9" ytl="346" xbr="64.5" ybr="383.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="59" ytl="285" xbr="111.5" ybr="320.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="26" ytl="204" xbr="74.5" ybr="252" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="183" ytl="174" xbr="223" ybr="211" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="360" ytl="200" xbr="401" ybr="228" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="451" ytl="196" xbr="498.5" ybr="236" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="504" ytl="240" xbr="539" ybr="275" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="436" ytl="245" xbr="477.5" ybr="285.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="350" ytl="295" xbr="387.5" ybr="331.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="426" ytl="100" xbr="494.5" ybr="132.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="547" ytl="195" xbr="615.5" ybr="254" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="306" ytl="325" xbr="381.5" ybr="418.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="150" ytl="409" xbr="204" ybr="458.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="86" ytl="235" xbr="208.5" ybr="306" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="377" ytl="449" xbr="497" ybr="522.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="197" ytl="452" xbr="313.5" ybr="505.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="32" ytl="391" xbr="118.5" ybr="466.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="11" ytl="254" xbr="97.5" ybr="283.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="286" ytl="253" xbr="330" ybr="330" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="562" ytl="319" xbr="630" ybr="362.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="488" ytl="174" xbr="553" ybr="216.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="222" ytl="370" xbr="282.5" ybr="440.5" z_order="0"/>
+    </image>
+    <image id="48" name="08583_jpg.rf.b03c39cdbac79d48aa3b7f97d21b67a6.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="28" ytl="119" xbr="622.37" ybr="618.975" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="342" ytl="320" xbr="371.5" ybr="356" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="146" ytl="284" xbr="183" ybr="317" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="215" ytl="150" xbr="239" ybr="186.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="286" ytl="165" xbr="312.5" ybr="200.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="306" ytl="168" xbr="324" ybr="195" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="362" ytl="311" xbr="378.5" ybr="341.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="268" ytl="383" xbr="288.5" ybr="409" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="183" ytl="279" xbr="210" ybr="314.5" z_order="0"/>
+    </image>
+    <image id="49" name="01695_jpg.rf.b3d4fbc87989788b2bfd4f70f0f49693.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="513.185" ybr="640" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="177" ytl="127" xbr="231" ybr="177.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="353" ytl="363" xbr="412.5" ybr="422.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="256" ytl="274" xbr="304.5" ybr="322.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="22" ytl="259" xbr="78.5" ybr="310.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="65" ytl="196" xbr="111.5" ybr="243.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="77" ytl="440" xbr="114.5" ybr="483.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="178" ytl="414" xbr="230" ybr="472" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="113" ytl="524" xbr="158" ybr="580" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="143" ytl="173" xbr="184.5" ybr="246" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="103" ytl="3" xbr="133.5" ybr="94.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="0" ytl="141" xbr="95" ybr="176" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="211" ytl="240" xbr="243.5" ybr="285.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="232" ytl="339" xbr="285.5" ybr="387" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="170" ytl="475" xbr="260" ybr="574.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="1" ytl="343" xbr="52.5" ybr="405" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="327" ytl="195" xbr="363" ybr="229" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="269" ytl="138" xbr="303" ybr="186.5" z_order="0"/>
+    </image>
+    <image id="50" name="01534_jpg.rf.b44107e69ced351c5daad4ba10abf36a.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="33" ytl="92" xbr="619.074" ybr="558.37" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="209" ytl="374" xbr="259.5" ybr="412" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="321" ytl="359" xbr="375.5" ybr="477.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="265" ytl="400" xbr="308.5" ybr="466.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="48" ytl="239" xbr="112" ybr="272" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="501" ytl="286" xbr="575.5" ybr="317.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="182" ytl="279" xbr="246.5" ybr="324.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="372" ytl="307" xbr="451" ybr="360.5" z_order="0"/>
+    </image>
+    <image id="51" name="04932_jpg.rf.b346f36a9f1e727c6cc364c343dfa8e7.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="28" ytl="66" xbr="639.556" ybr="595.185" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="425" ytl="254" xbr="508" ybr="314.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="390" ytl="301" xbr="462" ybr="376" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="248" ytl="307" xbr="323.5" ybr="373" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="254" ytl="407" xbr="343" ybr="471.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="154" ytl="343" xbr="264" ybr="411" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="54" ytl="383" xbr="170" ybr="468" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="40" ytl="283" xbr="124.5" ybr="355" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="135" ytl="251" xbr="206" ybr="320" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="165" ytl="284" xbr="254" ybr="343.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="213" ytl="230" xbr="287.5" ybr="294.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="282" ytl="248" xbr="362.5" ybr="316" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="370" ytl="231" xbr="445" ybr="287.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="373" ytl="148" xbr="452.5" ybr="206.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="452" ytl="127" xbr="529.5" ybr="173.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="321" ytl="117" xbr="388" ybr="165" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="233" ytl="141" xbr="304" ybr="205.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="173" ytl="180" xbr="243" ybr="236" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="83" ytl="176" xbr="167.5" ybr="219.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="68" ytl="205" xbr="152.5" ybr="262.5" z_order="0"/>
+    </image>
+    <image id="52" name="08934_jpg.rf.b6a928225f11db56e691466e5b36a05f.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="640" ybr="626.818" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="256" ytl="217" xbr="391.5" ybr="307.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="368" ytl="143" xbr="440" ybr="296" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="366" ytl="392" xbr="439.5" ybr="456.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="0" ytl="209" xbr="138" ybr="398" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="85" ytl="112" xbr="154" ybr="190" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="99" ytl="50" xbr="143.5" ybr="97.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="221" ytl="12" xbr="252" ybr="60" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="445" ytl="25" xbr="523.5" ybr="185" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="513" ytl="57" xbr="586.5" ybr="136" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="472" ytl="225" xbr="551.5" ybr="300" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="474" ytl="293" xbr="513" ybr="354" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="612" ytl="85" xbr="640" ybr="161.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="286" ytl="0" xbr="345.5" ybr="43" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="83" ytl="1" xbr="158" ybr="37.5" z_order="0"/>
+    </image>
+    <image id="53" name="07910_jpg.rf.c0d60247a410d30e004d43d145b38f68.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="39" ytl="129" xbr="604.926" ybr="588.377" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="355" ytl="36" xbr="603.889" ybr="185.89" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="58" ytl="36" xbr="394" ybr="149.227" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="423" ytl="419" xbr="475.5" ybr="475.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="535" ytl="330" xbr="586.5" ybr="385" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="229" ytl="401" xbr="293" ybr="463.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="316" ytl="320" xbr="384" ybr="361.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="368" ytl="279" xbr="434" ybr="324" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="374" ytl="239" xbr="419.5" ybr="276" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="153" ytl="191" xbr="223.5" ybr="225.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="189" ytl="275" xbr="235.5" ybr="318.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="104" ytl="220" xbr="149.5" ybr="268.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="391" ytl="188" xbr="439.5" ybr="217" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="469" ytl="219" xbr="515" ybr="253.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="521" ytl="133" xbr="551.5" ybr="154" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="447" ytl="82" xbr="476" ybr="108" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="478" ytl="62" xbr="516" ybr="83.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="485" ytl="90" xbr="520" ybr="113.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="82" ytl="36" xbr="125" ybr="58" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="319" ytl="42" xbr="346.5" ybr="57.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="346" ytl="60" xbr="368.5" ybr="80.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="268" ytl="138" xbr="309.5" ybr="163" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="324" ytl="505" xbr="396.5" ybr="574" z_order="0"/>
+    </image>
+    <image id="54" name="00478_jpg.rf.b7b5067e6ca50f14cc0003da85c81a93.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="16" xbr="640" ybr="640" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="500" ytl="446" xbr="573.5" ybr="518" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="130" ytl="460" xbr="188.5" ybr="513.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="220" ytl="376" xbr="293" ybr="455.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="183" ytl="444" xbr="246" ybr="521" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="83" ytl="387" xbr="147" ybr="447.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="164" ytl="363" xbr="236" ybr="428" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="171" ytl="303" xbr="239" ybr="372" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="122" ytl="266" xbr="174" ybr="336" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="81" ytl="315" xbr="139" ybr="390" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="18" ytl="301" xbr="69.5" ybr="373.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="14" ytl="250" xbr="76" ybr="319" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="70" ytl="149" xbr="128.5" ybr="192.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="96" ytl="177" xbr="152" ybr="223" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="112" ytl="212" xbr="179" ybr="262.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="77" ytl="270" xbr="127.5" ybr="329.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="50" ytl="130" xbr="104.5" ybr="183.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="81" ytl="101" xbr="150" ybr="153" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="229" ytl="55" xbr="283" ybr="113.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="163" ytl="115" xbr="238.5" ybr="173.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="167" ytl="167" xbr="213.5" ybr="215.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="198" ytl="184" xbr="254" ybr="238.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="173" ytl="244" xbr="221" ybr="305" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="214" ytl="233" xbr="258" ybr="273" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="239" ytl="110" xbr="296.5" ybr="164.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="254" ytl="172" xbr="294" ybr="223.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="292" ytl="195" xbr="346.5" ybr="266" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="286" ytl="148" xbr="350.5" ybr="193" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="291" ytl="100" xbr="393" ybr="160" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="310" ytl="57" xbr="368.5" ybr="108.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="373" ytl="40" xbr="434" ybr="103" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="432" ytl="63" xbr="479.5" ybr="117" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="433" ytl="115" xbr="490.5" ybr="164.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="480" ytl="88" xbr="543" ybr="129.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="513" ytl="164" xbr="558.5" ybr="211.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="520" ytl="219" xbr="576" ybr="281" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="566" ytl="282" xbr="621.5" ybr="339.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="523" ytl="306" xbr="566" ybr="356" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="445" ytl="264" xbr="500.5" ybr="317.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="377" ytl="256" xbr="420.5" ybr="314" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="399" ytl="188" xbr="465.5" ybr="242" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="369" ytl="136" xbr="424.5" ybr="186.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="353" ytl="192" xbr="389" ybr="225" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="394" ytl="320" xbr="458.5" ybr="382" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="365" ytl="363" xbr="465.5" ybr="426" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="401" ytl="420" xbr="471" ybr="472" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="494" ytl="378" xbr="559" ybr="441" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="540" ytl="349" xbr="607" ybr="402.5" z_order="0"/>
+    </image>
+    <image id="55" name="05232_jpg.rf.c26242fcdf3a711c458006058ea84cfd.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="27" xbr="640" ybr="639.741" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="113" ytl="357" xbr="156" ybr="395" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="251" ytl="84" xbr="284" ybr="125" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="292" ytl="62" xbr="331" ybr="102" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="346" ytl="184" xbr="389.5" ybr="235.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="412" ytl="177" xbr="495" ybr="225" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="324" ytl="99" xbr="403" ybr="149.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="545" ytl="159" xbr="580" ybr="184.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="546" ytl="261" xbr="577" ybr="290.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="306" ytl="254" xbr="354.5" ybr="285.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="235" ytl="221" xbr="301" ybr="262.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="211" ytl="249" xbr="266.5" ybr="331.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="174" ytl="278" xbr="224" ybr="319.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="188" ytl="194" xbr="237.5" ybr="254.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="150" ytl="135" xbr="187" ybr="172.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="174" ytl="370" xbr="228" ybr="449.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="337" ytl="441" xbr="383.5" ybr="476.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="306" ytl="477" xbr="383" ybr="524.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="326" ytl="333" xbr="371" ybr="410.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="320" ytl="296" xbr="397" ybr="346" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="344" ytl="273" xbr="389.5" ybr="309" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="408" ytl="299" xbr="453.5" ybr="348.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="459" ytl="302" xbr="531.5" ybr="370" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="464" ytl="258" xbr="524" ybr="315.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="534" ytl="313" xbr="567.5" ybr="352.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="574" ytl="348" xbr="605" ybr="383" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="233" ytl="373" xbr="283.5" ybr="425.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="206" ytl="322" xbr="254" ybr="390.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="296" ytl="406" xbr="316.5" ybr="427" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="453" ytl="475" xbr="540" ybr="566.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="269" ytl="162" xbr="354" ybr="228.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="499" ytl="118" xbr="559" ybr="173.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="559" ytl="195" xbr="623" ybr="259.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="265" ytl="110" xbr="320.5" ybr="163.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="224" ytl="65" xbr="289" ybr="115" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="45" ytl="219" xbr="122.5" ybr="279.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="66" ytl="165" xbr="138" ybr="215.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="98" ytl="290" xbr="169" ybr="365.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="55" ytl="357" xbr="117.5" ybr="418" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="58" ytl="418" xbr="146" ybr="496.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="153" ytl="473" xbr="220" ybr="547.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="260" ytl="477" xbr="333.5" ybr="552.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="373" ytl="462" xbr="441" ybr="547.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="292" ytl="425" xbr="333.5" ybr="473.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="488" ytl="392" xbr="549" ybr="458.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="558" ytl="365" xbr="622.5" ybr="424.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="538" ytl="264" xbr="599" ybr="326" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="487" ytl="175" xbr="547" ybr="240" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="333" ytl="170" xbr="381" ybr="229.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="176" ytl="237" xbr="221.5" ybr="285" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="230" ytl="299" xbr="295" ybr="363.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="290" ytl="277" xbr="345.5" ybr="352.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="160" ytl="111" xbr="210" ybr="166.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="430" ytl="87" xbr="486.5" ybr="143.5" z_order="0"/>
+    </image>
+    <image id="56" name="05248_jpg.rf.d2ee7b0c27a94f63ceaff38ac1b7cca8.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="132" ytl="118" xbr="527.52" ybr="506.48" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="151.04" ybr="259.84" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="400" ytl="380" xbr="454" ybr="443.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="289" ytl="239" xbr="348" ybr="294.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="377" ytl="205" xbr="436" ybr="259" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="210" ytl="236" xbr="269" ybr="294" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="234" ytl="343" xbr="288.5" ybr="394" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="224" ytl="416" xbr="272" ybr="466" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="432" ytl="307" xbr="482" ybr="350.5" z_order="0"/>
+    </image>
+    <image id="57" name="05677_jpg.rf.c7bf2060c4695bed5cca01b69fcfebac.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="47" xbr="640" ybr="640.067" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="334" ytl="197" xbr="394" ybr="273" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="146" ytl="295" xbr="284.5" ybr="326" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="88" ytl="330" xbr="220" ybr="362" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="160" ytl="437" xbr="220" ybr="499" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="556" ytl="302" xbr="639" ybr="405.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="495" ytl="360" xbr="549" ybr="408.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="478" ytl="257" xbr="570.5" ybr="341.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="407" ytl="80" xbr="454.5" ybr="135" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="281" ytl="66" xbr="354.5" ybr="91.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="83" ytl="160" xbr="154" ybr="207" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="198" ytl="143" xbr="234.5" ybr="193.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="113" ytl="129" xbr="150" ybr="153.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="207" ytl="212" xbr="252" ybr="254.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="105" ytl="247" xbr="143" ybr="305" z_order="0"/>
+    </image>
+    <image id="58" name="03789_jpg.rf.ce147b6632f9c5f1706489112c894d89.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="13" ytl="120" xbr="631.24" ybr="561.6" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="444" ytl="340" xbr="557.92" ybr="423.2" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="467" ytl="247" xbr="578.36" ybr="325.08" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="421" ytl="170" xbr="524.6800000000001" ybr="245.51999999999998" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="346" ytl="220" xbr="457.36" ybr="294.24" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="279" ytl="146" xbr="382.68" ybr="208.72" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="225" ytl="232" xbr="332.52" ybr="310.08" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="206" ytl="323" xbr="314.8" ybr="410.04" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="330" ytl="303" xbr="440.08" ybr="383.64" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="314" ytl="388" xbr="429.2" ybr="480.15999999999997" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="180" ytl="407" xbr="293.92" ybr="497.88" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="70" ytl="332" xbr="182.64" ybr="412.64" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="81" ytl="250" xbr="191.07999999999998" ybr="324.24" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="150" ytl="178" xbr="256.24" ybr="248.4" z_order="0"/>
+    </image>
+    <image id="59" name="06349_jpg.rf.cffcf896f8852b99179eb9a7ca4397d3.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="216" xbr="627.358" ybr="555.943" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="177" ytl="9" xbr="551.756" ybr="204.698" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="74" ytl="446" xbr="163.5" ybr="501.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="482" ytl="356" xbr="573" ybr="424.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="114" ytl="286" xbr="165.5" ybr="322" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="27" ytl="285" xbr="82.5" ybr="319" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="330" ytl="69" xbr="406.5" ybr="104.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="229" ytl="113" xbr="270" ybr="142" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="403" ytl="67" xbr="443.5" ybr="99" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="209" ytl="83" xbr="256.5" ybr="115" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="124" ytl="517" xbr="187" ybr="540.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="224" ytl="259" xbr="266" ybr="298" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="6" ytl="430" xbr="43" ybr="462" z_order="0"/>
+    </image>
+    <image id="60" name="06753_jpg.rf.d64fef027b1123c4bb556de5ea58ebee.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="0" xbr="479.349" ybr="620.027" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="166" ytl="114" xbr="213" ybr="166" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="133" ytl="53" xbr="198.5" ybr="103" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="98" ytl="94" xbr="129.5" ybr="137.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="115" ytl="181" xbr="171.5" ybr="224" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="57" ytl="171" xbr="102.5" ybr="210.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="78" ytl="215" xbr="110.5" ybr="254.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="0" ytl="286" xbr="56" ybr="337" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="42" ytl="50" xbr="78" ybr="103.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="0" ytl="104" xbr="46" ybr="165.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="207" ytl="17" xbr="246.5" ybr="60.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="269" ytl="6" xbr="305.5" ybr="52.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="205" ytl="60" xbr="244" ybr="98.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="257" ytl="73" xbr="282.5" ybr="95.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="314" ytl="73" xbr="334.5" ybr="101" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="112" ytl="0" xbr="183.5" ybr="24" z_order="0"/>
+    </image>
+    <image id="61" name="01448_jpg.rf.da32417235d0e56a3091a1ad0037e556.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="35" xbr="640" ybr="640.037" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="484" ytl="202" xbr="536.5" ybr="247" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="461" ytl="134" xbr="508.5" ybr="177" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="383" ytl="71" xbr="429" ybr="116" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="330" ytl="106" xbr="359.5" ybr="136.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="361" ytl="142" xbr="402" ybr="183" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="388" ytl="124" xbr="425.5" ybr="163.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="177" ytl="162" xbr="235.5" ybr="212" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="239" ytl="170" xbr="291" ybr="224" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="52" ytl="221" xbr="112" ybr="281" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="118" ytl="303" xbr="181" ybr="362.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="192" ytl="253" xbr="254" ybr="311" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="299" ytl="268" xbr="349" ybr="310" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="350" ytl="256" xbr="404.5" ybr="308" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="401" ytl="295" xbr="465.5" ybr="362" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="343" ytl="340" xbr="407.5" ybr="398.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="235" ytl="414" xbr="316" ybr="480" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="454" ytl="452" xbr="518.5" ybr="523" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="320" ytl="519" xbr="395" ybr="568.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="304" ytl="566" xbr="383" ybr="638" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="181" ytl="370" xbr="219" ybr="399" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="29" ytl="167" xbr="117" ybr="229.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="245" ytl="118" xbr="316" ybr="221.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="326" ytl="160" xbr="442.5" ybr="278" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="468" ytl="278" xbr="545" ybr="356.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="415" ytl="98" xbr="487.5" ybr="158" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="294" ytl="310" xbr="386" ybr="360" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="108" ytl="387" xbr="205.5" ybr="484.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="177" ytl="494" xbr="310.5" ybr="639.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="348" ytl="393" xbr="467" ybr="481" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="260" ytl="366" xbr="333.5" ybr="450.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="122" ytl="231" xbr="197" ybr="289.5" z_order="0"/>
+    </image>
+    <image id="62" name="09079_jpg.rf.da574f403e7df25a761b5d46a57a438c.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="75" xbr="640" ybr="611.101" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="355" ytl="360" xbr="505.5" ybr="490" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="507" ytl="363" xbr="639.5" ybr="488.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="523" ytl="260" xbr="623.5" ybr="362.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="410" ytl="186" xbr="549.5" ybr="272.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="412" ytl="100" xbr="538" ybr="164.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="263" ytl="90" xbr="405" ybr="179" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="106" ytl="110" xbr="217" ybr="180" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="130" ytl="153" xbr="257.5" ybr="249" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="232" ytl="152" xbr="355.5" ybr="269.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="252" xbr="108" ybr="355" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="57" ytl="407" xbr="195.5" ybr="514.5" z_order="0"/>
+        <box label="pizza" occluded="0" source="manual" xtl="238" ytl="284" xbr="385.5" ybr="389" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="138" ytl="271" xbr="188.5" ybr="321.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="365" ytl="189" xbr="425.5" ybr="231.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="505" ytl="174" xbr="571.5" ybr="220.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="473" ytl="259" xbr="527" ybr="307.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="465" ytl="324" xbr="531.5" ybr="374.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="204" ytl="353" xbr="267" ybr="404.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="280" ytl="418" xbr="335" ybr="467" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="243" ytl="463" xbr="305" ybr="505.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="128" ytl="419" xbr="191.5" ybr="460.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="105" ytl="215" xbr="145" ybr="252" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="170" ytl="225" xbr="213.5" ybr="260.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="225" ytl="133" xbr="271" ybr="170.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="238" ytl="96" xbr="280" ybr="125.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="40" ytl="208" xbr="138" ybr="293.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="229" ytl="393" xbr="300" ybr="444" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="411" ytl="309" xbr="467.5" ybr="353" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="424" ytl="146" xbr="495" ybr="184.5" z_order="0"/>
+    </image>
+    <image id="63" name="05401_jpg.rf.dbdb3c0d355abfc4baea22be4f007741.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="23" ytl="61" xbr="629.222" ybr="596.704" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="450" ytl="152" xbr="481.5" ybr="186" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="311" ytl="123" xbr="339.5" ybr="154.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="502" ytl="248" xbr="529" ybr="284" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="119" ytl="194" xbr="145.5" ybr="223.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="221" ytl="178" xbr="254" ybr="223.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="125" ytl="357" xbr="181.5" ybr="412.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="172" ytl="433" xbr="215" ybr="487.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="322" ytl="376" xbr="355.5" ybr="407.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="265" ytl="255" xbr="302" ybr="287.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="308" ytl="241" xbr="334.5" ybr="268.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="420" ytl="292" xbr="459" ybr="319.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="410" ytl="144" xbr="518" ybr="259" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="165" ytl="147" xbr="287" ybr="261.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="271" ytl="310" xbr="373" ybr="415.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="159" ytl="381" xbr="259" ybr="485.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="283" ytl="469" xbr="366.5" ybr="562.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="395" ytl="429" xbr="480" ybr="508.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="463" ytl="262" xbr="565.5" ybr="349" z_order="0"/>
+    </image>
+    <image id="64" name="04014_jpg.rf.eaed02936b304d3b9616bc89e2e76265.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="30" xbr="640" ybr="627.926" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="547" ytl="389" xbr="601.5" ybr="439" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="451" ytl="454" xbr="509" ybr="512" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="290" ytl="461" xbr="354.5" ybr="509" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="101" ytl="417" xbr="155.5" ybr="469" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="32" ytl="358" xbr="92" ybr="412.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="216" ytl="249" xbr="265.5" ybr="297.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="336" ytl="244" xbr="375.5" ybr="290" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="549" ytl="253" xbr="598.5" ybr="295" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="80" ytl="311" xbr="115.5" ybr="352.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="114" ytl="198" xbr="160.5" ybr="258.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="64" ytl="209" xbr="113.5" ybr="248.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="205" ytl="371" xbr="258.5" ybr="443" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="367" ytl="419" xbr="452.5" ybr="507" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="475" ytl="227" xbr="526.5" ybr="276.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="556" ytl="150" xbr="584.5" ybr="175" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="591" ytl="227" xbr="620" ybr="273" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="405" ytl="178" xbr="451" ybr="229.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="373" ytl="209" xbr="411" ybr="257.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="266" ytl="164" xbr="331" ybr="200" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="244" ytl="208" xbr="290.5" ybr="237.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="268" ytl="64" xbr="318.5" ybr="113.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="355" ytl="166" xbr="378" ybr="191.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="326" ytl="97" xbr="354.5" ybr="147" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="30" ytl="298" xbr="59" ybr="328.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="260" ytl="362" xbr="292.5" ybr="399" z_order="0"/>
+    </image>
+    <image id="65" name="05236_jpg.rf.ec9b6c84a7ded4bc9b62160a217e3870.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="87" xbr="640" ybr="511.889" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="527" ytl="258" xbr="587" ybr="310" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="158" ytl="320" xbr="236.5" ybr="381" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="363" ytl="327" xbr="440" ybr="364" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="215" ytl="230" xbr="263" ybr="267.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="318" ytl="157" xbr="363.5" ybr="200.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="440" ytl="140" xbr="472.5" ybr="181.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="477" ytl="109" xbr="521" ybr="140.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="226" ytl="123" xbr="263" ybr="148.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="316" ytl="102" xbr="343" ybr="129" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="5" ytl="227" xbr="60.5" ybr="275" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="247" ytl="251" xbr="321.5" ybr="335.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="336" ytl="200" xbr="382.5" ybr="244" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="457" ytl="325" xbr="540" ybr="410" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="381" ytl="250" xbr="439.5" ybr="289.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="119" ytl="103" xbr="189.5" ybr="151.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="266" ytl="121" xbr="334" ybr="169.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="499" ytl="183" xbr="543" ybr="236.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="428" ytl="253" xbr="509" ybr="328" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="1" ytl="295" xbr="144" ybr="380.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="161" ytl="198" xbr="234.5" ybr="221" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="114" ytl="147" xbr="151.5" ybr="211.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="381" ytl="149" xbr="443" ybr="182.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="548" ytl="218" xbr="639" ybr="284.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="204" ytl="322" xbr="310" ybr="364" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="0" ytl="162" xbr="110" ybr="220" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="68" ytl="235" xbr="121.5" ybr="279" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="464" ytl="169" xbr="512.5" ybr="200.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="343" ytl="259" xbr="374.5" ybr="292.5" z_order="0"/>
+    </image>
+    <image id="66" name="01802_jpg.rf.ea34b97118566279c72c0b89408075ce.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="75" xbr="640" ybr="552.393" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="281" ytl="321" xbr="471.5" ybr="446.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="93" ytl="256" xbr="268" ybr="348" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="143" ytl="128" xbr="301.5" ybr="220.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="455" ytl="216" xbr="594.5" ybr="298.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="436" ytl="286" xbr="554.5" ybr="376" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="251" ytl="226" xbr="404.5" ybr="327.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="327" ytl="138" xbr="465.5" ybr="237" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="118" ytl="206" xbr="257.5" ybr="256.5" z_order="0"/>
+    </image>
+    <image id="67" name="07263_jpg.rf.e854bb9f94a97dd7100b94d6fee959ba.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="8" ytl="47" xbr="640.296" ybr="588.235" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="428" ytl="141" xbr="542" ybr="203" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="411" ytl="103" xbr="465" ybr="156.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="402" ytl="158" xbr="432.5" ybr="178" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="322" ytl="97" xbr="384.5" ybr="137.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="375" ytl="148" xbr="429" ybr="199" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="337" ytl="70" xbr="391.5" ybr="114" z_order="0"/>
+    </image>
+    <image id="68" name="00711_jpg.rf.f0f7d8f801bf6a964acf4c294105982f.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="65" ytl="25" xbr="497.593" ybr="558.567" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="141" ytl="468" xbr="182.5" ybr="542" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="102" ytl="246" xbr="138.5" ybr="291" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="318" ytl="459" xbr="353.5" ybr="508" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="418" ytl="358" xbr="456.5" ybr="412.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="419" ytl="222" xbr="445" ybr="266" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="370" ytl="73" xbr="406" ybr="117" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="234" ytl="129" xbr="260.5" ybr="182.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="94" ytl="136" xbr="137" ybr="217.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="123" ytl="113" xbr="152" ybr="150.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="184" ytl="81" xbr="233" ybr="123.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="364" ytl="127" xbr="395" ybr="157" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="200" ytl="260" xbr="250.5" ybr="323.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="294" ytl="418" xbr="326" ybr="465.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="340" ytl="315" xbr="371" ybr="358.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="368" ytl="407" xbr="406.5" ybr="456" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="165" ytl="397" xbr="181.5" ybr="430.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="183" ytl="213" xbr="203.5" ybr="242.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="194" ytl="184" xbr="216" ybr="208" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="335" ytl="212" xbr="359" ybr="229" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="214" ytl="67" xbr="232.5" ybr="94.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="353" ytl="262" xbr="374" ybr="289.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="240" ytl="384" xbr="263" ybr="406.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="211" ytl="336" xbr="227.5" ybr="357.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="174" ytl="376" xbr="200.5" ybr="401.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="132" ytl="332" xbr="153.5" ybr="355" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="291" ytl="479" xbr="316.5" ybr="503" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="376" ytl="349" xbr="403" ybr="374.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="384" ytl="326" xbr="403" ybr="352.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="456" ytl="284" xbr="480" ybr="317" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="397" ytl="269" xbr="417" ybr="300" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="278" ytl="264" xbr="294.5" ybr="283" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="173" ytl="276" xbr="191.5" ybr="299.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="178" ytl="135" xbr="193.5" ybr="156.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="317" ytl="78" xbr="343" ybr="106.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="394" ytl="120" xbr="415" ybr="146" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="361" ytl="179" xbr="386.5" ybr="202" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="67" ytl="290" xbr="124" ybr="355.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="166" ytl="158" xbr="205" ybr="210" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="178" ytl="72" xbr="229" ybr="116" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="252" ytl="39" xbr="306.5" ybr="91" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="343" ytl="66" xbr="382.5" ybr="110.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="389" ytl="105" xbr="438.5" ybr="177" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="432" ytl="188" xbr="479" ybr="245.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="352" ytl="238" xbr="412" ybr="306" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="295" ytl="265" xbr="345.5" ybr="324" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="140" ytl="338" xbr="195" ybr="398.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="98" ytl="393" xbr="147.5" ybr="453.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="162" ytl="437" xbr="216" ybr="516" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="227" ytl="478" xbr="283.5" ybr="552.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="314" ytl="462" xbr="374.5" ybr="526.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="308" ytl="351" xbr="364" ybr="423.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="380" ytl="370" xbr="440" ybr="443" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="431" ytl="278" xbr="489" ybr="336.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="223" ytl="189" xbr="277.5" ybr="245" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="309" ytl="178" xbr="368.5" ybr="219.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="235" ytl="106" xbr="285.5" ybr="157.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="136" ytl="234" xbr="186.5" ybr="306" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="72" ytl="202" xbr="128.5" ybr="257.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="221" ytl="380" xbr="278.5" ybr="449.5" z_order="0"/>
+    </image>
+    <image id="69" name="00962_jpg.rf.ee1b8fa2af738d0dff91f945f1f47c0b.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="0" ytl="25" xbr="640" ybr="577.284" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="367" ytl="328" xbr="413" ybr="386" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="261" ytl="265" xbr="316.5" ybr="310.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="193" ytl="365" xbr="248" ybr="408.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="338" ytl="221" xbr="430.5" ybr="272.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="217" ytl="166" xbr="257.5" ybr="220.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="248" ytl="121" xbr="314" ybr="153.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="434" ytl="319" xbr="488.5" ybr="401" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="67" ytl="293" xbr="123.5" ybr="338" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="84" ytl="209" xbr="152" ybr="250.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="73" ytl="150" xbr="108" ybr="198.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="250" ytl="307" xbr="282" ybr="346.5" z_order="0"/>
+        <box label="peppers" occluded="0" source="manual" xtl="420" ytl="392" xbr="474" ybr="435.5" z_order="0"/>
+    </image>
+    <image id="70" name="02109_jpg.rf.edb5bd5516e88adc58affd1367975555.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="21" ytl="12" xbr="610.63" ybr="607.674" z_order="0"/>
+    </image>
+    <image id="71" name="01016_jpg.rf.f25bdea7eba103d32cfd268153e58da7.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="24" ytl="95" xbr="615.407" ybr="567.889" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="501" ytl="259" xbr="608.5" ybr="359.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="370" ytl="126" xbr="489" ybr="242.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="233" ytl="113" xbr="332" ybr="214.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="114" ytl="196" xbr="225.5" ybr="307.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="86" ytl="372" xbr="198.5" ybr="486" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="217" ytl="412" xbr="320.5" ybr="522.5" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="275" ytl="286" xbr="376.5" ybr="392" z_order="0"/>
+        <box label="pepperoni" occluded="0" source="manual" xtl="411" ytl="381" xbr="515" ybr="495.5" z_order="0"/>
+    </image>
+    <image id="72" name="00212_jpg.rf.ff98ea06fe344cc741a331df526b0207.jpg" width="640" height="640">
+        <box label="pizza" occluded="0" source="manual" xtl="5" ytl="53" xbr="605.889" ybr="626.63" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="345" ytl="442" xbr="389" ybr="501.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="135" ytl="441" xbr="185" ybr="486" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="152" ytl="350" xbr="200.5" ybr="389" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="236" ytl="362" xbr="295.5" ybr="395" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="245" ytl="322" xbr="289" ybr="359" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="111" ytl="234" xbr="164.5" ybr="277.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="172" ytl="213" xbr="207.5" ybr="260.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="189" ytl="234" xbr="229" ybr="269.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="212" ytl="99" xbr="270" ybr="164" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="337" ytl="162" xbr="376.5" ybr="202" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="393" ytl="148" xbr="427" ybr="198" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="484" ytl="218" xbr="516.5" ybr="262" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="387" ytl="214" xbr="426.5" ybr="257" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="441" ytl="280" xbr="482.5" ybr="325.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="427" ytl="349" xbr="465" ybr="402.5" z_order="0"/>
+        <box label="black_olives" occluded="0" source="manual" xtl="300" ytl="162" xbr="329.5" ybr="198" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="297" ytl="111" xbr="335" ybr="150.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="61" ytl="386" xbr="141.5" ybr="464.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="267" ytl="475" xbr="312" ybr="560.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="320" ytl="388" xbr="370" ybr="459" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="476" ytl="382" xbr="521" ybr="455" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="357" ytl="253" xbr="426" ybr="299.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="343" ytl="331" xbr="409.5" ybr="426" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="355" ytl="194" xbr="405" ybr="229" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="197" ytl="416" xbr="240" ybr="530" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="185" ytl="112" xbr="225" ybr="173" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="423" ytl="194" xbr="491" ybr="250.5" z_order="0"/>
+        <box label="mushrooms" occluded="0" source="manual" xtl="113" ytl="279" xbr="205" ybr="328.5" z_order="0"/>
+    </image>
+</annotations>

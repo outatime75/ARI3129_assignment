@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['black_olives', 'mushrooms', 'pepperoni', 'peppers', 'pizza']
+
+roboflow:
+  workspace: outatime75
+  project: ari3129_assignment
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/outatime75/ari3129_assignment/dataset/3
