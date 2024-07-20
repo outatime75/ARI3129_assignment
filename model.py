@@ -1,3 +1,9 @@
+'''
+N. Krishna, “Faster R-CNN: A Step by Step Guide,” Towards Data Science, 2 November 2022. [Online]. 
+Available: https://towardsdatascience.com/understanding-and-implementing-faster-r-cnn-a-step-by-step-guide-11acfff216b0. [Accessed 3 January 2023].
+'''
+
+
 import torch
 import torchvision
 from torchvision import ops
