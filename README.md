@@ -1,4 +1,4 @@
-# **Image Recognition** :pizza:
+# **Object Detection** :pizza:
 
 The objective of this assignment was to build a model that can locate and identify specific pizza toppings from an image. This assignment was a requirement within the study unit *Advanced Computer Vision for Artificial Intelligence* offered by the University of Malta as part of its undergraduate course in Artificial Intelligence. 
 
